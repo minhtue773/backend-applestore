@@ -1,0 +1,467 @@
+[
+    {
+        "category_id": 10,
+        "product_name": "iPad Air M4 11 inch",
+        "slug": "ipad-air-m4-11-inch",
+        "description": "<div class=\"flashsale-text dcontent\">\n<p><strong>Giá bán:</strong> <font color=\"#ff0000\"><span style=\"font-size:16px\"><b><span class=\"flashsale-replace--priceSale\">18,790,000đ</span></b></span></font></p>\n<p><strong>Lưu ý:</strong> Giá hiển thị đã áp dụng ưu đãi Khung Giờ Vàng giảm 200.000đ</p>\n</div>",
+        "total_variants": 16,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Xám",
+                "sku": "MH304ZA/A",
+                "price": 18590000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-3-260303083002.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Xanh Dương",
+                "sku": "MH314ZA/A",
+                "price": 18590000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303083039-iphone-air-m4-2.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Tím",
+                "sku": "MH344ZA/A",
+                "price": 18590000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303083116-iphone-air-m4-1.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Ánh Sao",
+                "sku": "MH334ZA/A",
+                "price": 18590000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303083147-iphone-air-m4.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xám",
+                "sku": "MH354ZA/A",
+                "price": 21690000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303083915-iphone-air-m4-3.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Tím",
+                "sku": "MH394ZA/A",
+                "price": 21690000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303083830-iphone-air-m4-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Ánh Sao",
+                "sku": "MH374ZA/A",
+                "price": 21690000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303083850-iphone-air-m4.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Dương",
+                "sku": "MH364ZA/A",
+                "price": 21690000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-2-260303083744.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Tím",
+                "sku": "MH3E4ZA/A",
+                "price": 27990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-1-260303084003.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Dương",
+                "sku": "MH3C4ZA/A",
+                "price": 27990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084034-iphone-air-m4-2.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Ánh Sao",
+                "sku": "MH3D4ZA/A",
+                "price": 27990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084052-iphone-air-m4.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xám",
+                "sku": "MH3A4ZA/A",
+                "price": 27990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084109-iphone-air-m4-3.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Ánh Sao",
+                "sku": "MH3J4ZA/A",
+                "price": 36290000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-260303084209.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Tím",
+                "sku": "MH3K4ZA/A",
+                "price": 36290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084257-iphone-air-m4-1.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Xanh Dương",
+                "sku": "MH3H4ZA/A",
+                "price": 36290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084314-iphone-air-m4-2.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Xám",
+                "sku": "MH3G4ZA/A",
+                "price": 36290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084333-iphone-air-m4-3.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 10,
+        "product_name": "iPad Air M4 13 inch",
+        "slug": "ipad-air-m4-13-inch",
+        "description": "<div class=\"flashsale-text dcontent\">\n<p><strong>Giá bán:</strong> <font color=\"#ff0000\"><span style=\"font-size:16px\"><b><span class=\"flashsale-replace--priceSale\">24,390,000đ</span></b></span></font></p>\n<p><strong>Lưu ý:</strong> Giá hiển thị đã áp dụng ưu đãi Khung Giờ Vàng giảm 200.000đ</p>\n</div>",
+        "total_variants": 16,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Xám",
+                "sku": "MH5N4ZA/A",
+                "price": 24190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303041146-iphone-air-m4-3.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Tím",
+                "sku": "MH5T4ZA/A",
+                "price": 24190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084534-iphone-air-m4-1.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Ánh Sao",
+                "sku": "MH5Q4ZA/A",
+                "price": 24190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084552-iphone-air-m4.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Xanh Dương",
+                "sku": "MH5P4ZA/A",
+                "price": 24190000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-2-260303041131.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Dương",
+                "sku": "MH5V4ZA/A",
+                "price": 27590000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-2-260303084629.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xám",
+                "sku": "MH5U4ZA/A",
+                "price": 27590000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084705-iphone-air-m4-3.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Tím",
+                "sku": "MH5X4ZA/A",
+                "price": 27590000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084724-iphone-air-m4-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Ánh Sao",
+                "sku": "MH5W4ZA/A",
+                "price": 27590000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084740-iphone-air-m4.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Tím",
+                "sku": "MH624ZA/A",
+                "price": 33190000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-1-260303084818.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Dương",
+                "sku": "MH604ZA/A",
+                "price": 33190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084916-iphone-air-m4-2.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xám",
+                "sku": "MH5Y4ZA/A",
+                "price": 33190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084933-iphone-air-m4-3.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Ánh Sao",
+                "sku": "MH614ZA/A",
+                "price": 33190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303084841-iphone-air-m4.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Ánh Sao",
+                "sku": "MH654ZA/A",
+                "price": 41990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-m4-260303085013.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Tím",
+                "sku": "MHDK4ZA/A",
+                "price": 41990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303085051-iphone-air-m4-1.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Xanh Dương",
+                "sku": "MH644ZA/A",
+                "price": 41990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303085109-iphone-air-m4-2.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Xám",
+                "sku": "MH634ZA/A",
+                "price": 41990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303085126-iphone-air-m4-3.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 11,
+        "product_name": "iPad Mini 7",
+        "slug": "ipad-mini-7",
+        "description": "<div class=\"flashsale-text dcontent\">\n<p><strong>Giá bán:</strong> <font color=\"#ff0000\"><span style=\"font-size:16px\"><b><span class=\"flashsale-replace--priceSale\">14,490,000đ</span></b></span></font></p>\n<p><strong>Lưu ý:</strong> Giá hiển thị đã áp dụng ưu đãi Khung Giờ Vàng giảm 200.000đ</p>\n</div>",
+        "total_variants": 12,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Blue",
+                "sku": "MXN73ZA/A",
+                "price": 14290000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016035511-ipad-mini-7.png"
+            },
+            {
+                "storage": "128GB",
+                "color": "Starlight",
+                "sku": "MXN83ZA/A",
+                "price": 14290000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016035422-ipad-mini-7-anh-sao.png"
+            },
+            {
+                "storage": "128GB",
+                "color": "Gray",
+                "sku": "MXN63ZA/A",
+                "price": 14290000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016035451-ipad-mini-7-xam.png"
+            },
+            {
+                "storage": "128GB",
+                "color": "Purple",
+                "sku": "MXN93ZA/A",
+                "price": 14290000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-mini-7-tim-241016035334.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Starlight",
+                "sku": "MXND3ZA/A",
+                "price": 17290000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-mini-7-anh-sao-241016035709.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Purple",
+                "sku": "MXNE3ZA/A",
+                "price": 17290000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016035743-ipad-mini-7-tim.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Gray",
+                "sku": "MXNA3ZA/A",
+                "price": 17290000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016035803-ipad-mini-7-xam.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Blue",
+                "sku": "MXNC3ZA/A",
+                "price": 17290000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016035818-ipad-mini-7.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Blue",
+                "sku": "IPAD-MINI-7-WIFI-512GB.1",
+                "price": 23990000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-mini-7-241016040323.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Starlight",
+                "sku": "IPAD-MINI-7-WIFI-512GB.2",
+                "price": 23990000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016040358-ipad-mini-7-anh-sao.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Gray",
+                "sku": "IPAD-MINI-7-WIFI-512GB.3",
+                "price": 23990000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016040416-ipad-mini-7-xam.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Purple",
+                "sku": "IPAD-MINI-7-WIFI-512GB.4",
+                "price": 23990000,
+                "image": "https://minhtuanmobile.com/uploads/products/241016040431-ipad-mini-7-tim.png"
+            }
+        ]
+    },
+    {
+        "category_id": 12,
+        "product_name": "iPad Pro M5 11 inch",
+        "slug": "ipad-pro-m5-11-inch",
+        "description": "<div class=\"flashsale-text dcontent\">\n<p><strong>Giá bán:</strong> <font color=\"#ff0000\"><span style=\"font-size: 16px;\"><b><span class=\"flashsale-replace--priceSale\">33,790,000đ</span></b></span></font></p>\n<p><strong>Lưu ý:</strong> Giá hiển thị đã áp dụng ưu đãi Khung Giờ Vàng giảm 200.000đ</p>\n</div>",
+        "total_variants": 8,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Đen",
+                "sku": "MDWK4ZA/A",
+                "price": 33590000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016031836-pad-pro-m5-11inch-wifi-256gb-2.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Bạc",
+                "sku": "MDWL4ZA/A",
+                "price": 33590000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-11inch-wifi-256gb-1-251016032903.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen",
+                "sku": "MDWM4ZA/A",
+                "price": 39490000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-11inch-wifi-512gb-2-251016032626.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Bạc",
+                "sku": "MDWN4ZA/A",
+                "price": 39490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016032658-ipad-pro-m5-11inch-wifi-512gb-1.png"
+            },
+            {
+                "storage": "1TB",
+                "color": "Bạc",
+                "sku": "MDWQ4ZA/A",
+                "price": 50990000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-11inch-wifi-1tb-1-251016033748.png"
+            },
+            {
+                "storage": "1TB",
+                "color": "Đen",
+                "sku": "MDWP4ZA/A",
+                "price": 50990000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016033826-ipad-pro-m5-11inch-wifi-1tb-2.png"
+            },
+            {
+                "storage": "2TB",
+                "color": "Đen",
+                "sku": "MDWU4ZA/A",
+                "price": 64590000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-11inch-wifi-2tb-2-251016034130.png"
+            },
+            {
+                "storage": "2TB",
+                "color": "Bạc",
+                "sku": "MDWV4ZA/A",
+                "price": 64590000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016034225-ipad-pro-m5-11inch-wifi-2tb-1.png"
+            }
+        ]
+    },
+    {
+        "category_id": 12,
+        "product_name": "iPad Pro M5 13 inch",
+        "slug": "ipad-pro-m5-13-inch",
+        "description": "<div class=\"flashsale-text dcontent\">\n<p><strong>Giá bán:</strong> <font color=\"#ff0000\"><span style=\"font-size: 16px;\"><b><span class=\"flashsale-replace--priceSale\">43,490,000đ</span></b></span></font></p>\n<p><strong>Lưu ý:</strong> Giá hiển thị đã áp dụng ưu đãi Khung Giờ Vàng giảm 200.000đ</p>\n</div>",
+        "total_variants": 8,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Đen",
+                "sku": "MDYJ4ZA/A",
+                "price": 43290000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-13inch-wifi-256gb-2-251016041000.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Bạc",
+                "sku": "MDYK4ZA/A",
+                "price": 43290000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016041243-ipad-pro-m5-11inch-wifi-256gb-1.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Bạc",
+                "sku": "MDYM4ZA/A",
+                "price": 49490000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-11inch-wifi-512gb-1-251016041522.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen",
+                "sku": "MDYL4ZA/A",
+                "price": 49490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016041619-ipad-pro-m5-13inch-wifi-512gb-2.png"
+            },
+            {
+                "storage": "1TB",
+                "color": "Bạc",
+                "sku": "MDYP4ZA/A",
+                "price": 61490000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-11inch-wifi-1tb-1-251016041853.png"
+            },
+            {
+                "storage": "1TB",
+                "color": "Đen",
+                "sku": "MDYN4ZA/A",
+                "price": 61490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016041951-ipad-pro-m5-13inch-wifi-1tb-2.png"
+            },
+            {
+                "storage": "2TB",
+                "color": "Đen",
+                "sku": "MDYT4ZA/A",
+                "price": 75490000,
+                "image": "https://minhtuanmobile.com/uploads/products/ipad-pro-m5-13inch-wifi-2tb-2-251016042236.png"
+            },
+            {
+                "storage": "2TB",
+                "color": "Bạc",
+                "sku": "MDYU4ZA/A",
+                "price": 75490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251016042306-ipad-pro-m5-11inch-wifi-2tb-1.png"
+            }
+        ]
+    }
+]

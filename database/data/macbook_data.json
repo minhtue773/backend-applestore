@@ -1,0 +1,328 @@
+[
+    {
+        "category_id": 14,
+        "product_name": "MacBook Neo A18 Pro 13 inch",
+        "slug": "macbook-neo-a18-pro-13-inch",
+        "description": "<div class=\"flashsale-text dcontent\">\n<p><strong>Giá bán:</strong> <font color=\"#ff0000\"><span style=\"font-size:16px\"><b><span class=\"flashsale-replace--priceSale\">18,290,000đ</span></b></span></font></p>\n<p><strong>Lưu ý:</strong> Giá hiển thị đã áp dụng ưu đãi Khung Giờ Vàng giảm 200.000đ</p>\n</div>",
+        "total_variants": 8,
+        "variants": [
+            {
+                "spec_summary": "256GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "256GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Hồng Phớt",
+                "sku": "MHFH4SA/A",
+                "price": 18090000,
+                "image": "https://minhtuanmobile.com/uploads/products/macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-256gb-3-260305092342.jpg"
+            },
+            {
+                "spec_summary": "256GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "256GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Xanh Indigo",
+                "sku": "MHFF4SA/A",
+                "price": 18090000,
+                "image": "https://minhtuanmobile.com/uploads/products/260305092814-macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-256gb.jpg"
+            },
+            {
+                "spec_summary": "256GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "256GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Vàng Citrus",
+                "sku": "MHFD4SA/A",
+                "price": 18090000,
+                "image": "https://minhtuanmobile.com/uploads/products/260305092711-macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-256gb-2.jpg"
+            },
+            {
+                "spec_summary": "256GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "256GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Bạc",
+                "sku": "MHFA4SA/A",
+                "price": 18090000,
+                "image": "https://minhtuanmobile.com/uploads/products/260305092732-macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-256gb-1.jpg"
+            },
+            {
+                "spec_summary": "512GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "512GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Hồng Phớt",
+                "sku": "MHFJ4SA/A",
+                "price": 20790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260305093206-macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-512gb-touch-id.jpg"
+            },
+            {
+                "spec_summary": "512GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "512GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Xanh Indigo",
+                "sku": "MHFG4SA/A",
+                "price": 20790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260305093243-macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-512gb-touch-id-3.jpg"
+            },
+            {
+                "spec_summary": "512GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "512GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Bạc",
+                "sku": "MHFC4SA/A",
+                "price": 20790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260305093224-macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-512gb-touch-id-2.jpg"
+            },
+            {
+                "spec_summary": "512GB",
+                "cpu": "",
+                "gpu": "",
+                "ram": "512GB",
+                "ssd": "Khôngxácđịnh",
+                "color": "Vàng Citrus",
+                "sku": "MHFE4SA/A",
+                "price": 20790000,
+                "image": "https://minhtuanmobile.com/uploads/products/macbook-neo-a18-pro-13-inch-2026-6cpu-5gpu-8gb-512gb-touch-id-1-260305093132.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 13,
+        "product_name": "MacBook Air M5 13 inch ",
+        "slug": "macbook-air-m5-13-inch",
+        "description": "<div class=\"flashsale-text dcontent\">\n<p><strong>Giá bán:</strong> <font color=\"#ff0000\"><span style=\"font-size:16px\"><b><span class=\"flashsale-replace--priceSale\">34,590,000đ</span></b></span></font></p>\n<p><strong>Lưu ý:</strong> Giá hiển thị đã áp dụng ưu đãi Khung Giờ Vàng giảm 200.000đ</p>\n</div>",
+        "total_variants": 20,
+        "variants": [
+            {
+                "spec_summary": "10CPU 8GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "8GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Đêm Xanh Thẳm",
+                "sku": "MDHE4SA/A",
+                "price": 34390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260720090156-macbook-air-m5-2026-13-inch-10cpu-8gpu-16gb-512gb-3.png"
+            },
+            {
+                "spec_summary": "10CPU 8GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "8GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Bạc",
+                "sku": "MDH74SA/A",
+                "price": 34390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304092722-macbook-air-m5-2026-13-inch-10cpu-8gpu-16gb-512gb-2.jpg"
+            },
+            {
+                "spec_summary": "10CPU 8GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "8GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Xanh Da Trời",
+                "sku": "MDHH4SA/A",
+                "price": 34390000,
+                "image": "https://minhtuanmobile.com/uploads/products/macbook-air-m5-2026-13-inch-10cpu-8gpu-16gb-512gb-1-260304092058.jpg"
+            },
+            {
+                "spec_summary": "10CPU 8GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "8GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Ánh Sao",
+                "sku": "MDHA4SA/A",
+                "price": 34390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304092744-macbook-air-m5-2026-13-inch-10cpu-8gpu-16gb-512gb.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Ánh Sao",
+                "sku": "Z1L30003N",
+                "price": 36390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260512034014-macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-512gb.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Đêm Xanh Thẳm",
+                "sku": "Z1L60003N",
+                "price": 36390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260512034048-macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-512gb-1.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Xanh Da Trời",
+                "sku": "Z1L90003R",
+                "price": 36390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260512034140-macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-512gb-3.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "512GB",
+                "color": "Bạc",
+                "sku": "Z1L00003Q",
+                "price": 36390000,
+                "image": "https://minhtuanmobile.com/uploads/products/macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-512gb-2-260512033922.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "1TB",
+                "color": "Bạc",
+                "sku": "MDH84SA/A",
+                "price": 42390000,
+                "image": "https://minhtuanmobile.com/uploads/products/macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-1tb-2-260304093746.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "1TB",
+                "color": "Đêm Xanh Thẳm",
+                "sku": "MDHF4SA/A",
+                "price": 42390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304093818-macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-1tb-1.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "1TB",
+                "color": "Ánh Sao",
+                "sku": "MDHC4SA/A",
+                "price": 42390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304093858-macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-1tb-4.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 16GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "16GB",
+                "ssd": "1TB",
+                "color": "Xanh Da Trời",
+                "sku": "MDHJ4SA/A",
+                "price": 42390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304093842-macbook-air-m5-2026-13-inch-10cpu-10gpu-16gb-1tb-3.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "512GB",
+                "color": "Đêm Xanh Thẳm",
+                "sku": "Z1L6000P0",
+                "price": 39790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260512034617-macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-512gb-3.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "512GB",
+                "color": "Ánh Sao",
+                "sku": "Z1L3000P0",
+                "price": 39790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260512034554-macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-512gb-1.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "512GB",
+                "color": "Xanh Da Trời",
+                "sku": "Z1L9000P5",
+                "price": 39790000,
+                "image": "https://minhtuanmobile.com/uploads/products/macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-512gb-260512034519.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 512GB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "512GB",
+                "color": "Bạc",
+                "sku": "Z1L0000P1",
+                "price": 39790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260512034638-macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-512gb-2.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "1TB",
+                "color": "Xanh Da Trời",
+                "sku": "MDHK4SA/A",
+                "price": 48190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304095039-macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-1tb-2.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "1TB",
+                "color": "Ánh Sao",
+                "sku": "MDHD4SA/A",
+                "price": 48190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304095059-macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-1tb-3.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "1TB",
+                "color": "Bạc",
+                "sku": "MDH94SA/A",
+                "price": 48190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260304095009-macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-1tb-1.jpg"
+            },
+            {
+                "spec_summary": "10CPU 10GPU 24GB 1TB",
+                "cpu": "10CPU",
+                "gpu": "10GPU",
+                "ram": "24GB",
+                "ssd": "1TB",
+                "color": "Đêm Xanh Thẳm",
+                "sku": "MDHG4SA/A",
+                "price": 48190000,
+                "image": "https://minhtuanmobile.com/uploads/products/macbook-air-m5-2026-13-inch-10cpu-10gpu-24gb-1tb-260304094920.jpg"
+            }
+        ]
+    }
+]

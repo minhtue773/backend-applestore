@@ -1,0 +1,1066 @@
+[
+    {
+        "category_id": 4,
+        "product_name": "iPhone 13",
+        "slug": "iphone-13",
+        "description": "<div class=\"dcontent prodetail__box__content_collapse\">\n<table>\n<tbody>\n<tr>\n<th>Kích thước màn hình </th>\n<td>\n<p>6.1 inches</p>\n<p>2532 x 1170 pixels</p>\n</td>\n</tr>\n<tr>\n<th>Công nghệ màn hình</th>\n<td>OLED LPTS</td>\n</tr>\n<tr>\n<th>Tốc độ làm mới</th>\n<td>60Hz</td>\n</tr>\n<tr>\n<th>Chipset</th>\n<td>Apple A15 Bionic</td>\n</tr>\n<tr>\n<th>GPU:</th>\n<td>Apple GPU (5 lõi)</td>\n</tr>\n<tr>\n<th>Bộ nhớ trong</th>\n<td>128 GB</td>\n</tr>\n<tr>\n<th>Hệ điều hành</th>\n<td>iOS</td>\n</tr>\n<tr>\n<th>Camera</th>\n<td>\n<p>- camera kép 12 MP, f/1.8</p>\n<p>- Camera góc rộng 12 MP, f/2.4, 120 độ</p>\n</td>\n</tr>\n<tr>\n<th>Quay video</th>\n<td>3840x2160 (4K UHD) (60 fps), 1920x1080 (Full HD) (240 fps), 1280x720 (HD) (30 fps)</td>\n</tr>\n<tr>\n<th>Chức năng</th>\n<td>OIS, HDR, Time-lapse video, Continuous autofocus, Picture-taking during video recording, Video light</td>\n</tr>\n<tr>\n<th>Camera trước</th>\n<td>12 MP (Time-of-Flight (ToF), EIS, HDR, Slow-motion videos)</td>\n</tr>\n<tr>\n<th>Quay video</th>\n<td>3840x2160 (4K UHD) (60 fps)</td>\n</tr>\n<tr>\n<th>Bluetooth</th>\n<td>Bluetooth 5.0</td>\n</tr>\n<tr>\n<th>Wi-Fi</th>\n<td>802.11 a, b, g, n, ac, ax (Wi-Fi 6), dual-band; MIMO, Wi-Fi Direct, Hotspot</td>\n</tr>\n<tr>\n<th>Cổng sạc:</th>\n<td>Lightning</td>\n</tr>\n<tr>\n<th>Định vị</th>\n<td>GPS, A-GPS, Glonass, Galileo, BeiDou, QZSS, Cell ID, Wi-Fi positioning</td>\n</tr>\n<tr>\n<th>Tính năng khác</th>\n<td>Accelerometer, Gyroscope, Compass, Barometer</td>\n</tr>\n<tr>\n<th>Kiểu màn hình</th>\n<td>Notch tai thỏ</td>\n</tr>\n<tr>\n<th>Dung lượng pin</th>\n<td>3240 mAh</td>\n</tr>\n<tr>\n<th>Loại pin</th>\n<td>Li - Ion, Không thể thay thế</td>\n</tr>\n<tr>\n<th>Chức năng sạc</th>\n<td>Sạc nhanh có dây 20W, sạc MagSafe 15W, sạc không dây chuẩn Qi 7.5W</td>\n</tr>\n<tr>\n<th>SIM kép</th>\n<td>Có</td>\n</tr>\n<tr>\n<th>Loại SIM</th>\n<td>Nano SIM, eSIM</td>\n</tr>\n<tr>\n<th>HD Voice:</th>\n<td>Có</td>\n</tr>\n<tr>\n<th>VoLTE:</th>\n<td>Có</td>\n</tr>\n</tbody>\n</table>\n</div>",
+        "total_variants": 2,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Black",
+                "sku": "MLPF3VN/A",
+                "price": 11990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109031649-iphone-13-128gb-1.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "White",
+                "sku": "MLPG3VN/A",
+                "price": 12190000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-13-128gb-260109031635.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 5,
+        "product_name": "iPhone 14",
+        "slug": "iphone-14",
+        "description": "<div class=\"dcontent prodetail__box__content_collapse\">\n<table class=\"w-100\">\n<tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Màn Hình</td></tr><tr><td>Kích thước</td><td>6.1 inches</td></tr><tr><td>Công nghệ</td><td>OLED</td></tr><tr><td>Chất liệu mặt kính</td><td>Kính cường lực Ceramic Shield</td></tr><tr><td>Loại cảm ứng</td><td>Điện dung đa điểm</td></tr><tr><td>Độ phân giải</td><td>2532 x 1170 pixels</td></tr><tr><td>Tần số quét</td><td>60Hz</td></tr><tr><td>Độ sáng</td><td>1200 nits</td></tr><tr><td>Mật độ điểm ảnh</td><td>460 ppi</td></tr><tr><td>Các tính năng khác</td><td>Super Retina XDR</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Pin &amp; Sạc</td></tr><tr><td>Dung lượng pin</td><td>3279 mAh</td></tr><tr><td>Loại pin</td><td>Li-Ion</td></tr><tr><td>Hỗ trợ sạc tối đa</td><td>20 W</td></tr><tr><td>Sạc kèm theo máy</td><td>Không</td></tr><tr><td>Công nghệ pin</td><td>Tiết kiệm pin<br/>\r\nSạc pin nhanh<br/>\r\nSạc không dây MagSafe<br/>\r\nSạc không dây</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thông tin chung</td></tr><tr><td>Thời điểm ra mắt</td><td>09/2022</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera sau</td></tr><tr><td>Độ phân giải</td><td>2 camera 12 MP</td></tr><tr><td>Quay phim</td><td>HD 720p@30fps<br/>\r\nFullHD 1080p@60fps<br/>\r\nFullHD 1080p@30fps<br/>\r\nFullHD 1080p@25fps<br/>\r\nFullHD 1080p@240fps<br/>\r\nFullHD 1080p@120fps<br/>\r\n4K 2160p@60fps<br/>\r\n4K 2160p@30fps<br/>\r\n4K 2160p@25fps<br/>\r\n4K 2160p@24fps</td></tr><tr><td>Tính năng</td><td>Zoom quang học<br/>\r\nZoom kỹ thuật số<br/>\r\nXóa phông<br/>\r\nTrôi nhanh thời gian (Time Lapse)<br/>\r\nToàn cảnh (Panorama)<br/>\r\nSmart HDR 4<br/>\r\nSiêu độ phân giải<br/>\r\nQuay chậm (Slow Motion)<br/>\r\nLive Photos<br/>\r\nGóc siêu rộng (Ultrawide)<br/>\r\nGóc rộng (Wide)<br/>\r\nDolby Vision HDR<br/>\r\nDeep Fusion<br/>\r\nCinematic<br/>\r\nChống rung quang học (OIS)<br/>\r\nChế độ hành động (Action Mode)<br/>\r\nBộ lọc màu<br/>\r\nBan đêm (Night Mode)<br/>\r\nPhotonic Engine</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera trước</td></tr><tr><td>Độ phân giải</td><td>12 MP</td></tr><tr><td>Quay phim</td><td>4230p@60/30/24fps</td></tr><tr><td>Tính năng</td><td>Xóa phông<br/>\r\nTrôi nhanh thời gian (Time Lapse)<br/>\r\nSmart HDR 4<br/>\r\nRetina Flash<br/>\r\nQuay video Full HD<br/>\r\nQuay video 4K<br/>\r\nQuay chậm (Slow Motion)<br/>\r\nNhãn dán (AR Stickers)<br/>\r\nLive Photos<br/>\r\nDeep Fusion<br/>\r\nCinematic<br/>\r\nChụp đêm<br/>\r\nChống rung điện tử kỹ thuật số (EIS)<br/>\r\nChế độ chân dung<br/>\r\nBộ lọc màu<br/>\r\nTrueDepth<br/>\r\nPhotonic Engine</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Cấu hình &amp; Bộ nhớ</td></tr><tr><td>Hệ điều hành</td><td>iOS 17</td></tr><tr><td>Chip xử lý (CPU)</td><td>Apple A15 Bionic</td></tr><tr><td>Tốc độ CPU</td><td>3.22 GHz</td></tr><tr><td>Chip đồ họa (GPU)</td><td>Apple GPU 5 nhân</td></tr><tr><td>RAM</td><td>6 GB</td></tr><tr><td>Dung lượng lưu trữ</td><td>128 GB</td></tr><tr><td>Thẻ nhớ</td><td>Không</td></tr><tr><td>Danh bạ</td><td>Không giới hạn</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Kết nối</td></tr><tr><td>Mạng di động</td><td>Hỗ trợ 5G</td></tr><tr><td>SIM</td><td>1 Nano SIM &amp; 1 eSIM</td></tr><tr><td>Wifi</td><td>Wi-Fi MIMO<br/>\r\nWi-Fi 802.11 a/b/g/n/ac/ax<br/>\r\nDual-band (2.4 GHz/5 GHz)</td></tr><tr><td>GPS</td><td>QZSS<br/>\r\nGPS<br/>\r\nGLONASS<br/>\r\nGALILEO<br/>\r\nBEIDOU</td></tr><tr><td>Bluetooth</td><td>v5.3</td></tr><tr><td>Cổng kết nối/sạc</td><td>Lightning</td></tr><tr><td>Jack tai nghe</td><td>Lightning</td></tr><tr><td>Kết nối khác</td><td>NFC</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thiết kế &amp; Chất liệu</td></tr><tr><td>Thiết kế</td><td>Nguyên khối</td></tr><tr><td>Chất liệu</td><td>Khung nhôm</td></tr><tr><td>Kích thước</td><td>Dài 146.7 mm - Ngang 71.5 mm - Dày 7.8 mm</td></tr><tr><td>Trọng lượng</td><td>Nặng 172 g</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Tiện ích</td></tr><tr><td>Bảo mật nâng cao</td><td>Secure Enclave<br/>\r\nChế độ phong tỏa (Lockdown Mode)<br/>\r\nChuyển tiếp bảo mật (iCloud Private Relay)<br/>\r\nBảo vệ dữ liệu nâng cao (Advanced Data Protection)<br/>\r\nKhóa kích hoạt iCloud (iCloud Activation Lock)</td></tr><tr><td>Tính năng đặc biệt</td><td>Đang cập nhật</td></tr><tr><td>Kháng nước, bụi</td><td>IP68</td></tr><tr><td>Ghi âm</td><td>Ghi âm mặc định</td></tr><tr><td>Xem phim</td><td>H.264(MPEG4-AVC)<br/>\r\nProRes<br/>\r\nHEVC</td></tr><tr><td>Nghe nhạc</td><td>MP3<br/>\r\nAAC</td></tr><tr><td>Tiện ích khác</td><td>Phát hiện va chạm (Crash Detection)<br/>\r\nSOS Khẩn Cấp<br/>\r\nChạm 2 lần sáng màn hình<br/>\r\nApple Pay</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Bảo mật &amp; Cảm biến</td></tr><tr><td>Bảo mật</td><td>Face ID</td></tr><tr><td>Cảm biến</td><td>Cảm biến gia tốc<br/>\r\nCảm biến tiệm cận<br/>\r\nCảm biến ánh sáng<br/>\r\nCon quay hồi chuyển</td></tr>\n</table>\n</div>",
+        "total_variants": 6,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Starlight",
+                "sku": "MPUR3VN/A",
+                "price": 13890000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109031233-iphone-14-128gb-1.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Black",
+                "sku": "MPUF3VN/A",
+                "price": 13990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-14-128gb-2-260109031212.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Blue",
+                "sku": "MPVN3VN/A",
+                "price": 13990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109031228-iphone-14-128gb.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Starlight",
+                "sku": "MPW43VN/A",
+                "price": 16190000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-14-256gb-1-260109031314.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Black",
+                "sku": "MPVX3VN/A",
+                "price": 16190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109031332-iphone-14-256gb-2.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Blue",
+                "sku": "MPWP3VN/A",
+                "price": 16190000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109031338-iphone-14-256gb.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 6,
+        "product_name": "iPhone 15",
+        "slug": "iphone-15",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 8,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Black",
+                "sku": "MTP03VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109030635-iphone-15-128gb-2.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Pink",
+                "sku": "MTP13VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-15-128gb-6-260413021112.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Blue",
+                "sku": "MTP43VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109030640-iphone-15-128gb-4.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Blue",
+                "sku": "MTP93VN/A",
+                "price": 20790000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-15-256gb-4-260109030814.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Pink",
+                "sku": "MTP73VN/A",
+                "price": 20790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109030828-iphone-15-256gb-6.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Black",
+                "sku": "MTP63VN/A",
+                "price": 20790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109030838-iphone-15-256gb-2.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Green",
+                "sku": "MTPA3VN/A",
+                "price": 19990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109030833-iphone-15-256gb-5.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Yellow",
+                "sku": "MTP83VN/A",
+                "price": 19990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109030843-iphone-15-256gb.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 6,
+        "product_name": "iPhone 15 Plus",
+        "slug": "iphone-15-plus",
+        "description": "<div class=\"dcontent prodetail__box__content_collapse\">\n<table class=\"w-100\">\n<tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Màn Hình</td></tr><tr><td>Kích thước</td><td>6.7 inches</td></tr><tr><td>Công nghệ</td><td>Super Retina XDR OLED</td></tr><tr><td>Chất liệu mặt kính</td><td>Kính cường lực Ceramic Shield</td></tr><tr><td>Loại cảm ứng</td><td>Điện dung đa điểm</td></tr><tr><td>Độ phân giải</td><td>2796 x 1290-pixel</td></tr><tr><td>Tần số quét</td><td>60Hz</td></tr><tr><td>Độ sáng</td><td>2000 nits</td></tr><tr><td>Mật độ điểm ảnh</td><td>460 ppi</td></tr><tr><td>Các tính năng khác</td><td>Dynamic Island<br/>\r\nHDR display<br/>\r\nTrue Tone<br/>\r\nWide color (P3)<br/>\r\nHaptic Touch<br/>\r\nLớp phủ oleophobia chống dấu vân tay</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Pin &amp; Sạc</td></tr><tr><td>Dung lượng pin</td><td>4383 mAh</td></tr><tr><td>Loại pin</td><td>Li-Ion</td></tr><tr><td>Hỗ trợ sạc tối đa</td><td>20 W</td></tr><tr><td>Sạc kèm theo máy</td><td>Không</td></tr><tr><td>Công nghệ pin</td><td>Tiết kiệm pin<br/>\r\nSạc pin nhanh<br/>\r\nSạc ngược qua cáp<br/>\r\nSạc không dây MagSafe<br/>\r\nSạc không dây</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thông tin chung</td></tr><tr><td>Thời điểm ra mắt</td><td>09/2023</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera sau</td></tr><tr><td>Độ phân giải</td><td>Chính 48 MP &amp; Phụ 12 MP</td></tr><tr><td>Quay phim</td><td>HD 720p@30fps<br/>\r\nFullHD 1080p@60fps<br/>\r\nFullHD 1080p@30fps<br/>\r\nFullHD 1080p@240fps<br/>\r\nFullHD 1080p@120fps<br/>\r\n4K 2160p@60fps<br/>\r\n4K 2160p@30fps<br/>\r\n4K 2160p@24fps</td></tr><tr><td>Tính năng</td><td>Zoom quang học<br/>\r\nZoom kỹ thuật số<br/>\r\nXóa phông<br/>\r\nTrôi nhanh thời gian (Time Lapse)<br/>\r\nToàn cảnh (Panorama)<br/>\r\nSmart HDR 5<br/>\r\nSiêu độ phân giải<br/>\r\nQuay Siêu chậm (Super Slow Motion)<br/>\r\nQuay chậm (Slow Motion)<br/>\r\nLive Photos<br/>\r\nGóc siêu rộng (Ultrawide)<br/>\r\nGóc rộng (Wide)<br/>\r\nDolby Vision HDR<br/>\r\nDeep Fusion<br/>\r\nCinematic<br/>\r\nChống rung quang học (OIS)<br/>\r\nChế độ hành động (Action Mode)<br/>\r\nBộ lọc màu<br/>\r\nBan đêm (Night Mode)</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera trước</td></tr><tr><td>Độ phân giải</td><td>12 MP</td></tr><tr><td>Quay phim</td><td>4K@24/25/30/60 fps<br/>\r\nHD 1080p@25/30/60 fps</td></tr><tr><td>Tính năng</td><td>Smart HDR 5<br/>\r\nXóa phông<br/>\r\nTrôi nhanh thời gian (Time Lapse)<br/>\r\nQuay video HD<br/>\r\nQuay video Full HD<br/>\r\nQuay video 4K<br/>\r\nQuay chậm (Slow Motion)<br/>\r\nNhãn dán (AR Stickers)<br/>\r\nLive Photos<br/>\r\nCinematic<br/>\r\nChụp đêm<br/>\r\nBộ lọc màu</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Cấu hình &amp; Bộ nhớ</td></tr><tr><td>Hệ điều hành</td><td>iOS 17</td></tr><tr><td>Chip xử lý (CPU)</td><td>Apple A16 Bionic</td></tr><tr><td>Tốc độ CPU</td><td>3.46 GHz</td></tr><tr><td>Chip đồ họa (GPU)</td><td>Apple GPU 5 nhân</td></tr><tr><td>RAM</td><td>6 GB</td></tr><tr><td>Dung lượng lưu trữ</td><td>128 GB</td></tr><tr><td>Thẻ nhớ</td><td>Không</td></tr><tr><td>Danh bạ</td><td>Không giới hạn</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Kết nối</td></tr><tr><td>Mạng di động</td><td>Hỗ trợ 5G</td></tr><tr><td>SIM</td><td>1 Nano SIM &amp; 1 eSIM</td></tr><tr><td>Wifi</td><td>Wi-Fi MIMO<br/>\r\nWi-Fi 802.11 a/b/g/n/ac/ax<br/>\r\nWi-Fi 6</td></tr><tr><td>GPS</td><td>QZSS<br/>\r\nGPS<br/>\r\nGLONASS<br/>\r\nGALILEO<br/>\r\nBEIDOU</td></tr><tr><td>Bluetooth</td><td>v5.3</td></tr><tr><td>Cổng kết nối/sạc</td><td>USB Type-C</td></tr><tr><td>Jack tai nghe</td><td>USB Type-C</td></tr><tr><td>Kết nối khác</td><td>NFC</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thiết kế &amp; Chất liệu</td></tr><tr><td>Thiết kế</td><td>Nguyên khối</td></tr><tr><td>Chất liệu</td><td>Khung nhôm</td></tr><tr><td>Kích thước</td><td>Dài 160.9 mm - Ngang 77.8 mm - Dày 7.8 mm </td></tr><tr><td>Trọng lượng</td><td>Nặng 201g</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Tiện ích</td></tr><tr><td>Bảo mật nâng cao</td><td>Chế độ khóa (Lockdown Mode)<br/>\r\nBảo vệ dữ liệu nâng cao cho iCloud<br/>\r\nBảo vệ thiết bị khi bị đánh cắp</td></tr><tr><td>Tính năng đặc biệt</td><td>Sạc không dây</td></tr><tr><td>Kháng nước, bụi</td><td>IP68 </td></tr><tr><td>Ghi âm</td><td>Ghi âm mặc định</td></tr><tr><td>Xem phim</td><td>H.264(MPEG4-AVC)<br/>\r\nProRes<br/>\r\nHEVC</td></tr><tr><td>Nghe nhạc</td><td>MP3<br/>\r\nFLAC<br/>\r\nAAC</td></tr><tr><td>Tiện ích khác</td><td>SOS Khẩn Cấp<br/>\r\nPhát Hiện Va Chạm</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Bảo mật &amp; Cảm biến</td></tr><tr><td>Bảo mật</td><td>Face ID</td></tr><tr><td>Cảm biến</td><td>Cảm biến gia tốc<br/>\r\nCảm biến tiệm cận<br/>\r\nCảm biến ánh sáng<br/>\r\nCon quay hồi chuyển<br/>\r\nCảm biến áp kế<br/>\r\nCảm biến trọng lực</td></tr>\n</table>\n</div>",
+        "total_variants": 5,
+        "variants": [
+            {
+                "storage": "Không xác định",
+                "color": "Black",
+                "sku": "MU0Y3VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/250723024304-iphone-15-plus-black.png"
+            },
+            {
+                "storage": "Không xác định",
+                "color": "Blue",
+                "sku": "MU163VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/250723024326-iphone-15-plus-blue.png"
+            },
+            {
+                "storage": "Không xác định",
+                "color": "Pink",
+                "sku": "MU103VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/250723024255-iphone-15-plus-pink.png"
+            },
+            {
+                "storage": "Không xác định",
+                "color": "Green",
+                "sku": "MU173VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/250723024316-iphone-15-plus-green.png"
+            },
+            {
+                "storage": "Không xác định",
+                "color": "Yellow",
+                "sku": "MU123VN/A",
+                "price": 17990000,
+                "image": "https://minhtuanmobile.com/uploads/products/250723024335-iphone-15-plus-yellow.png"
+            }
+        ]
+    },
+    {
+        "category_id": 7,
+        "product_name": "iPhone 16 Plus",
+        "slug": "iphone-16-plus",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua gói bảo hành VIP 6 tháng </li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>150K</strong></span></span> khi mua gói bảo hành VIP 12 tháng</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 15,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Hồng",
+                "sku": "MXVW3VN/A",
+                "price": 24490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025219-iphone-16-plus-128gb-2.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Xanh Mòng Két",
+                "sku": "MXVY3VN/A",
+                "price": 24490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-plus-128gb-3-260109025157.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Đen",
+                "sku": "MXVU3VN/A",
+                "price": 24490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025225-iphone-16-plus-128gb.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Xanh Lưu Ly",
+                "sku": "MXVX3VN/A",
+                "price": 24490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025229-iphone-16-plus-128gb-1.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Trắng",
+                "sku": "MXVV3VN/A",
+                "price": 24490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025233-iphone-16-plus-128gb-4.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Trắng",
+                "sku": "MXWV3VN/A",
+                "price": 27490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025101-iphone-16-plus-256b-4.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Lưu Ly",
+                "sku": "MXY23VN/A",
+                "price": 27490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025057-iphone-16-plus-256gb-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Hồng",
+                "sku": "MXY13VN/A",
+                "price": 27490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025047-iphone-16-plus-256gb-2.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Đen",
+                "sku": "MXWN3VN/A",
+                "price": 27490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-plus-256gb-260109025029.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Mòng Két",
+                "sku": "MXY53VN/A",
+                "price": 27490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109025051-iphone-16-plus-256gb-3.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Hồng",
+                "sku": "MY253VN/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-plus-512gb-2-260109024859.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen",
+                "sku": "MY1P3VN/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024918-iphone-16-plus-512gb.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Lưu Ly",
+                "sku": "MY2D3VN/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024932-iphone-16-plus-512gb-1.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Mòng Két",
+                "sku": "MY2J3VN/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024937-iphone-16-plus-512gb-3.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Trắng",
+                "sku": "MY1X3VN/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024942-iphone-16-plus-512gb-4.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 7,
+        "product_name": "iPhone 16 Pro Max",
+        "slug": "iphone-16-pro-max",
+        "description": "<div class=\"dcontent prodetail__box__content_collapse\">\n<table class=\"w-100\">\n<tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Màn Hình</td></tr><tr><td>Kích thước</td><td>6.9 inch</td></tr><tr><td>Công nghệ</td><td>OLED</td></tr><tr><td>Chất liệu mặt kính</td><td>Kính cường lực Ceramic Shield</td></tr><tr><td>Loại cảm ứng</td><td>Điện dung đa điểm</td></tr><tr><td>Độ phân giải</td><td>Super Retina XDR (2886 x 1320 Pixels)</td></tr><tr><td>Tần số quét</td><td>120 Hz</td></tr><tr><td>Độ sáng</td><td>2000 nits</td></tr><tr><td>Mật độ điểm ảnh</td><td>Không có thông tin</td></tr><tr><td>Các tính năng khác</td><td>Màn hình luôn hiển thị (Always-On display), True Tone, HDR10, Dolby Vision, DCI-P3, Độ tương phản 2.000.000:1</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Pin &amp; Sạc</td></tr><tr><td>Dung lượng pin</td><td>4.676 mAh</td></tr><tr><td>Loại pin</td><td>Li-Ion</td></tr><tr><td>Hỗ trợ sạc tối đa</td><td>20W</td></tr><tr><td>Sạc kèm theo máy</td><td>Không</td></tr><tr><td>Công nghệ pin</td><td>Tiết kiệm pin, Sạc nhanh, Sạc không dây, Sạc không dây MagSafe, Sạc ngược qua cáp</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thông tin chung</td></tr><tr><td>Thời điểm ra mắt</td><td>09/2024</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera sau</td></tr><tr><td>Độ phân giải</td><td>Chính 48 MP, Siêu rộng 48 MP, Telephoto 12 MP</td></tr><tr><td>Quay phim</td><td>4K, 2.8K, FullHD, HD ở nhiều tốc độ khung hình</td></tr><tr><td>Tính năng</td><td>Chống rung quang học (OIS), Chế độ hành động (Action Mode), Zoom quang học, Smart HDR 5, Chụp ảnh Raw, Quay video ProRes, Xóa phông (Chế độ chân dung), Toàn cảnh (Panorama), Chụp đêm, Siêu cận (Macro), Góc siêu rộng (Ultrawide), Cinematic, Deep Fusion, Photonic Engine, Tự động lấy nét (AF)</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera trước</td></tr><tr><td>Độ phân giải</td><td>12 MP</td></tr><tr><td>Quay phim</td><td>Quay video 4K, Quay video FullHD</td></tr><tr><td>Tính năng</td><td>Chống rung quang học, Tự động lấy nét (AF), Xóa phông (Chế độ chân dung), Chụp đêm, HDR, Flash màn hình</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Cấu hình &amp; Bộ nhớ</td></tr><tr><td>Hệ điều hành</td><td>iOS 18</td></tr><tr><td>Chip xử lý (CPU)</td><td>Apple A18 Pro (6 nhân)</td></tr><tr><td>Tốc độ CPU</td><td>Hãng không công bố</td></tr><tr><td>Chip đồ họa (GPU)</td><td>Apple GPU 6 nhân</td></tr><tr><td>RAM</td><td>8 GB</td></tr><tr><td>Dung lượng lưu trữ</td><td>256 GB</td></tr><tr><td>Thẻ nhớ</td><td>Không</td></tr><tr><td>Danh bạ</td><td>Không giới hạn</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Kết nối</td></tr><tr><td>Mạng di động</td><td>Hỗ trợ 5G</td></tr><tr><td>SIM</td><td>1 Nano SIM &amp; 1 eSIM</td></tr><tr><td>Wifi</td><td>Wi-Fi 7, Wi-Fi MIMO</td></tr><tr><td>GPS</td><td>BEIDOU, GALILEO, GLONASS, GPS, QZSS, iBeacon</td></tr><tr><td>Bluetooth</td><td>v5.3</td></tr><tr><td>Cổng kết nối/sạc</td><td>USB Type-C</td></tr><tr><td>Jack tai nghe</td><td>Type-C</td></tr><tr><td>Kết nối khác</td><td>NFC, Apple Pay</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thiết kế &amp; Chất liệu</td></tr><tr><td>Thiết kế</td><td>Nguyên khối</td></tr><tr><td>Chất liệu</td><td>Khung Titan &amp; Mặt lưng kính cường lực</td></tr><tr><td>Kích thước</td><td>Dài 163 mm - Ngang 77.6 mm - Dày 8.25 mm</td></tr><tr><td>Trọng lượng</td><td>227 g</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Tiện ích</td></tr><tr><td>Bảo mật nâng cao</td><td>Mở khóa khuôn mặt Face ID</td></tr><tr><td>Tính năng đặc biệt</td><td>Phát hiện va chạm (Crash Detection), Loa kép, Âm thanh Dolby Atmos, Màn hình luôn hiển thị AOD, Chạm 2 lần sáng màn hình</td></tr><tr><td>Kháng nước, bụi</td><td>IP68</td></tr><tr><td>Ghi âm</td><td>Ghi âm mặc định</td></tr><tr><td>Xem phim</td><td>MP4, HEVC</td></tr><tr><td>Nghe nhạc</td><td>AAC, APAC, Apple Lossless, FLAC, MP3</td></tr><tr><td>Tiện ích khác</td><td>La bàn</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Bảo mật &amp; Cảm biến</td></tr><tr><td>Bảo mật</td><td>Mở khóa bằng mật mã, Mở khóa khuôn mặt</td></tr><tr><td>Cảm biến</td><td>Cảm biến khí áp kế, Con quay hồi chuyển, Cảm biến ánh sáng, Cảm biến gia tốc, Cảm biến la bàn, Cảm biến tiệm cận</td></tr>\n</table>\n</div>",
+        "total_variants": 12,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Titan Đen",
+                "sku": "MYWV3VN/A",
+                "price": 29490000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910084742-iphone-16-pro-max-black-titanium-pdp-image-position-1a-black-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Titan Trắng",
+                "sku": "MYWW3VN/A",
+                "price": 29490000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910084821-iphone-16-pro-max-white-titanium-pdp-image-position-1a-white-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Titan Tự Nhiên",
+                "sku": "MYWY3VN/A",
+                "price": 29490000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910032303-iphone-16-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Titan Sa Mạc",
+                "sku": "MYWX3VN/A",
+                "price": 29490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-pro-max-titan-sa-mac-3-251212011621.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Sa Mạc",
+                "sku": "MYX23VN/A",
+                "price": 35490000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910084128-iphone-16-pro-max-desert-titanium-pdp-image-position-1a-desert-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Tự Nhiên",
+                "sku": "MYX33VN/A",
+                "price": 35490000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910084236-iphone-16-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Trắng",
+                "sku": "MYX13VN/A",
+                "price": 35490000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910084317-iphone-16-pro-max-white-titanium-pdp-image-position-1a-white-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Đen",
+                "sku": "MYX03VN/A",
+                "price": 35490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-pro-max-black-titanium-pdp-image-position-1a-black-titanium-color-vn-vi-240910083843.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Tự Nhiên",
+                "sku": "MYX73VN/A",
+                "price": 40790000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910083102-iphone-16-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Trắng",
+                "sku": "MYX53VN/A",
+                "price": 40790000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910083140-iphone-16-pro-max-white-titanium-pdp-image-position-1a-white-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Đen",
+                "sku": "MYX43VN/A",
+                "price": 40790000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910032205-iphone-16-pro-max-black-titanium-pdp-image-position-1a-black-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Sa Mạc",
+                "sku": "MYX63VN/A",
+                "price": 40790000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-pro-max-desert-titanium-pdp-image-position-1a-desert-titanium-color-vn-vi-240910083001.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 7,
+        "product_name": "iPhone 16 Pro",
+        "slug": "iphone-16-pro",
+        "description": "<div class=\"dcontent prodetail__box__content_collapse\">\n<table class=\"w-100\">\n<tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Màn Hình</td></tr><tr><td>Kích thước</td><td>6.3 inch</td></tr><tr><td>Công nghệ</td><td>OLED, ProMotion 120 Hz, Always‑On Display</td></tr><tr><td>Chất liệu mặt kính</td><td>Ceramic Shield</td></tr><tr><td>Loại cảm ứng</td><td>Cảm ứng điện dung đa điểm</td></tr><tr><td>Độ phân giải</td><td>2622 x 1206 pixels</td></tr><tr><td>Tần số quét</td><td>120Hz</td></tr><tr><td>Độ sáng</td><td>2000 nits</td></tr><tr><td>Mật độ điểm ảnh</td><td>460 ppi</td></tr><tr><td>Các tính năng khác</td><td>Dynamic Island, viền siêu mỏng, Always‑On display</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Pin &amp; Sạc</td></tr><tr><td>Dung lượng pin</td><td>3.582 mAh</td></tr><tr><td>Loại pin</td><td>Lithium-ion</td></tr><tr><td>Hỗ trợ sạc tối đa</td><td>20W</td></tr><tr><td>Sạc kèm theo máy</td><td>Không có</td></tr><tr><td>Công nghệ pin</td><td>Tiết kiệm pin<br/>\r\nSạc pin nhanh<br/>\r\nSạc ngược qua cáp<br/>\r\nSạc không dây MagSafe<br/>\r\nSạc không dây</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thông tin chung</td></tr><tr><td>Thời điểm ra mắt</td><td>02/2025</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera sau</td></tr><tr><td>Độ phân giải</td><td>Chính 48 MP &amp; Phụ 48 MP, 12 MP</td></tr><tr><td>Quay phim</td><td>HD 720p@30fps<br/>\r\nFullHD 1080p@60fps<br/>\r\nFullHD 1080p@30fps<br/>\r\nFullHD 1080p@25fps<br/>\r\nFullHD 1080p@240fps<br/>\r\nFullHD 1080p@120fps<br/>\r\n4K 2160p@60fps<br/>\r\n4K 2160p@30fps<br/>\r\n4K 2160p@25fps<br/>\r\n4K 2160p@24fps<br/>\r\n4K 2160p@120fps<br/>\r\n4K 2160p@100fps<br/>\r\n2.8K 60fps</td></tr><tr><td>Tính năng</td><td>Ảnh Raw<br/>\r\nĐiều khiển camera (Camera Control)<br/>\r\nZoom quang học<br/>\r\nZoom kỹ thuật số<br/>\r\nXóa phông<br/>\r\nTrôi nhanh thời gian (Time Lapse)<br/>\r\nSmart HDR 5<br/>\r\nSiêu độ phân giải<br/>\r\nSiêu cận (Macro)<br/>\r\nQuay video định dạng Log<br/>\r\nQuay video ProRes<br/>\r\nQuay chậm (Slow Motion)<br/>\r\nLive Photos<br/>\r\nGóc siêu rộng (Ultrawide)<br/>\r\nDolby Vision HDR<br/>\r\nDeep Fusion<br/>\r\nCinematic<br/>\r\nChụp ảnh liên tục<br/>\r\nChống rung quang học (OIS)<br/>\r\nChế độ hành động (Action Mode)<br/>\r\nChân dung đêm<br/>\r\nBộ lọc màu<br/>\r\nBan đêm (Night Mode)<br/>\r\nPhotonic Engine</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera trước</td></tr><tr><td>Độ phân giải</td><td>12 MP</td></tr><tr><td>Quay phim</td><td>4K@24 fps<br/>\r\n4K@25 fps<br/>\r\n4K@30 fps<br/>\r\n4K@60 fps<br/>\r\n1080p@25fps<br/>\r\n1080p@30 fps<br/>\r\n1080p@60 fp</td></tr><tr><td>Tính năng</td><td>Smart HDR 5<br/>\r\nXóa phông<br/>\r\nTrôi nhanh thời gian (Time Lapse)<br/>\r\nRetina Flash<br/>\r\nQuay video định dạng Log<br/>\r\nQuay video ProRes<br/>\r\nQuay video Full HD<br/>\r\nQuay video 4K<br/>\r\nQuay chậm (Slow Motion)<br/>\r\nLive Photos<br/>\r\nDeep Fusion<br/>\r\nCinematic<br/>\r\nChụp ảnh Raw<br/>\r\nChụp ảnh liên tục<br/>\r\nChụp đêm<br/>\r\nChống rung<br/>\r\nBộ lọc màu<br/>\r\nPhotonic Engine</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Cấu hình &amp; Bộ nhớ</td></tr><tr><td>Hệ điều hành</td><td>iOS 18</td></tr><tr><td>Chip xử lý (CPU)</td><td>Apple A18 Pro</td></tr><tr><td>Tốc độ CPU</td><td>Hãng không công bố</td></tr><tr><td>Chip đồ họa (GPU)</td><td>6‑core Apple GPU</td></tr><tr><td>RAM</td><td>8 GB</td></tr><tr><td>Dung lượng lưu trữ</td><td>128GB</td></tr><tr><td>Thẻ nhớ</td><td>Không hỗ trợ thẻ nhớ ngoài</td></tr><tr><td>Danh bạ</td><td>Không giới hạn</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Kết nối</td></tr><tr><td>Mạng di động</td><td>2G–5G NR</td></tr><tr><td>SIM</td><td>Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim</td></tr><tr><td>Wifi</td><td>Wi‑Fi 7 (802.11be) với 2x2 MIMO7</td></tr><tr><td>GPS</td><td>QZSS<br/>\r\nNavIC<br/>\r\niBeacon<br/>\r\nGPS<br/>\r\nGLONASS<br/>\r\nGALILEO<br/>\r\nBEIDOU</td></tr><tr><td>Bluetooth</td><td>v5.3</td></tr><tr><td>Cổng kết nối/sạc</td><td>Type-C</td></tr><tr><td>Jack tai nghe</td><td>Type-C</td></tr><tr><td>Kết nối khác</td><td>NFC</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thiết kế &amp; Chất liệu</td></tr><tr><td>Thiết kế</td><td>Nguyên khối</td></tr><tr><td>Chất liệu</td><td>Khung Titan &amp; Mặt lưng kính cường lực</td></tr><tr><td>Kích thước</td><td>Dài 149.6 mm - Ngang 71.5 mm - Dày 8.25 mm </td></tr><tr><td>Trọng lượng</td><td>199 g</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Tiện ích</td></tr><tr><td>Bảo mật nâng cao</td><td>Mã hóa dữ liệu<br/>\r\nEmergency SOS via Satellite</td></tr><tr><td>Tính năng đặc biệt</td><td>Âm thanh Dolby Atmos<br/>\r\nPhát hiện va chạm (Crash Detection)<br/>\r\nMàn hình luôn hiển thị AOD<br/>\r\nLoa kép<br/>\r\nHDR10+<br/>\r\nHDR10<br/>\r\nDCI-P3<br/>\r\nCông nghệ âm thanh Dolby Digital Plus<br/>\r\nCông nghệ hình ảnh Dolby Vision<br/>\r\nCông nghệ HLG<br/>\r\nCông nghê âm thanh Dolby Digital<br/>\r\nChạm 2 lần sáng màn hình<br/>\r\nApple Pay</td></tr><tr><td>Kháng nước, bụi</td><td>IP68</td></tr><tr><td>Ghi âm</td><td>Ghi âm mặc định</td></tr><tr><td>Xem phim</td><td>MP4<br/>\r\nHEVC</td></tr><tr><td>Nghe nhạc</td><td>MP3<br/>\r\nFLAC<br/>\r\nApple Lossless<br/>\r\nAPAC<br/>\r\nAAC</td></tr><tr><td>Tiện ích khác</td><td>Camera Control Button<br/>\r\nApple Intelligence (AI)</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Bảo mật &amp; Cảm biến</td></tr><tr><td>Bảo mật</td><td>Mở khóa bằng mật mã<br/>\r\nMở khóa khuôn mặt</td></tr><tr><td>Cảm biến</td><td>Cảm biến gia tốc<br/>\r\nCảm biến tiệm cận<br/>\r\nCảm biến ánh sáng<br/>\r\nLa bàn<br/>\r\nCon quay hồi chuyển<br/>\r\nCảm biến áp kế<br/>\r\nCảm biến trọng lực</td></tr>\n</table>\n</div>",
+        "total_variants": 16,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Titan Sa Mạc",
+                "sku": "MYNF3VN/A",
+                "price": 24690000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910093852-iphone-16-pro-max-desert-titanium-pdp-image-position-1a-desert-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Titan Tự Nhiên",
+                "sku": "MYNG3VN/A",
+                "price": 24690000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910093938-iphone-16-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Titan Đen",
+                "sku": "MYND3VN/A",
+                "price": 24690000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910094024-iphone-16-pro-max-black-titanium-pdp-image-position-1a-black-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Titan Trắng",
+                "sku": "MYNE3VN/A",
+                "price": 24690000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-pro-max-white-titanium-pdp-image-position-1a-white-titanium-color-vn-vi-240910093702.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Titan Sa Mạc",
+                "sku": "MYNK3VN/A",
+                "price": 26990000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910093300-iphone-16-pro-max-desert-titanium-pdp-image-position-1a-desert-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Titan Tự Nhiên",
+                "sku": "MYNL3VN/A",
+                "price": 26990000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910093416-iphone-16-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Titan Trắng",
+                "sku": "MYNJ3VN/A",
+                "price": 26990000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910093459-iphone-16-pro-max-white-titanium-pdp-image-position-1a-white-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Titan Đen",
+                "sku": "MYNH3VN/A",
+                "price": 26990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-pro-max-black-titanium-pdp-image-position-1a-black-titanium-color-vn-vi-240910092646.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Sa Mạc",
+                "sku": "MYNP3VN/A",
+                "price": 31890000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910090446-iphone-16-pro-max-desert-titanium-pdp-image-position-1a-desert-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Đen",
+                "sku": "MYNM3VN/A",
+                "price": 31890000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910090526-iphone-16-pro-max-black-titanium-pdp-image-position-1a-black-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Trắng",
+                "sku": "MYNN3VN/A",
+                "price": 31890000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910090611-iphone-16-pro-max-white-titanium-pdp-image-position-1a-white-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Titan Tự Nhiên",
+                "sku": "MYNQ3VN/A",
+                "price": 31890000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color-vn-vi-240910090024.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Tự Nhiên",
+                "sku": "MYNX3VN/A",
+                "price": 35690000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910085344-iphone-16-pro-max-natural-titanium-pdp-image-position-1a-natural-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Đen",
+                "sku": "MYNR3VN/A",
+                "price": 35690000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910085440-iphone-16-pro-max-black-titanium-pdp-image-position-1a-black-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Trắng",
+                "sku": "MYNT3VN/A",
+                "price": 35690000,
+                "image": "https://minhtuanmobile.com/uploads/products/240910085543-iphone-16-pro-max-white-titanium-pdp-image-position-1a-white-titanium-color-vn-vi.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Titan Sa Mạc",
+                "sku": "MYNW3VN/A",
+                "price": 35690000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-pro-max-desert-titanium-pdp-image-position-1a-desert-titanium-color-vn-vi-240910085105.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 7,
+        "product_name": "iPhone 16e",
+        "slug": "iphone-16e",
+        "description": "<div class=\"dcontent prodetail__box__content_collapse\">\n<table class=\"w-100\">\n<tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Màn Hình</td></tr><tr><td>Kích thước</td><td>6.1 inch</td></tr><tr><td>Công nghệ</td><td>OLED</td></tr><tr><td>Chất liệu mặt kính</td><td>Kính cường lực Ceramic Shield</td></tr><tr><td>Loại cảm ứng</td><td>Haptic Touch</td></tr><tr><td>Độ phân giải</td><td>2532 x 1170 pixels</td></tr><tr><td>Tần số quét</td><td>60 Hz</td></tr><tr><td>Độ sáng</td><td>800 nit (tiêu chuẩn); 1200 nit (HDR)</td></tr><tr><td>Mật độ điểm ảnh</td><td>Không có thông tin</td></tr><tr><td>Các tính năng khác</td><td>Màn hình HDR, True Tone, Dải màu rộng P3, Tỷ lệ tương phản 2.000.000:1, Thu Phóng Màn Hình, Kiểu màn hình Tai thỏ</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Pin &amp; Sạc</td></tr><tr><td>Dung lượng pin</td><td>3.961 mAh</td></tr><tr><td>Loại pin</td><td>Li-Ion</td></tr><tr><td>Hỗ trợ sạc tối đa</td><td>20W</td></tr><tr><td>Sạc kèm theo máy</td><td>Không</td></tr><tr><td>Công nghệ pin</td><td>Sạc nhanh 50% trong 30 phút, Sạc không dây Qi 7.5W</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thông tin chung</td></tr><tr><td>Thời điểm ra mắt</td><td>02/2025</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera sau</td></tr><tr><td>Độ phân giải</td><td>Chính (Fusion) 48 MP, f/1.6<br/>\r\nTelephoto 2x 12 MP, f/1.6</td></tr><tr><td>Quay phim</td><td>4K Dolby Vision@24/25/30/60 fps<br/>\r\n1080p@25/30/60 fps<br/>\r\nVideo chậm 1080p@120/240 fps</td></tr><tr><td>Tính năng</td><td>Chống rung quang học (OIS), Chống rung điện tử (EIS), Zoom quang học, Zoom kỹ thuật số, Smart HDR 5, Xóa phông, Toàn cảnh (Panorama), Trôi nhanh thời gian (Time Lapse), Chụp đêm, Live Photos, Deep Fusion, Gắn thẻ địa lý</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Camera trước</td></tr><tr><td>Độ phân giải</td><td>12 MP, f/1.9</td></tr><tr><td>Quay phim</td><td>4K Dolby Vision@24/25/30/60 fps<br/>\r\n1080p@25/30/60 fps<br/>\r\nVideo chậm 1080p@120/240 fps</td></tr><tr><td>Tính năng</td><td>Chống rung điện tử (EIS), Xóa phông, Quay chậm (Slow Motion), Trôi nhanh thời gian (Time Lapse), Chụp đêm, Live Photos, Deep Fusion, Photonic Engine, Retina Flash</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Cấu hình &amp; Bộ nhớ</td></tr><tr><td>Hệ điều hành</td><td>iOS 18</td></tr><tr><td>Chip xử lý (CPU)</td><td>Chip A18 (CPU 6 lõi: 2 lõi hiệu năng + 4 lõi tiết kiệm điện)</td></tr><tr><td>Tốc độ CPU</td><td>GPU 4 lõi</td></tr><tr><td>Chip đồ họa (GPU)</td><td>Apple GPU 4 nhân</td></tr><tr><td>RAM</td><td>8 GB</td></tr><tr><td>Dung lượng lưu trữ</td><td>128 GB</td></tr><tr><td>Thẻ nhớ</td><td>Không</td></tr><tr><td>Danh bạ</td><td>Không giới hạn</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Kết nối</td></tr><tr><td>Mạng di động</td><td>Hỗ trợ 5G</td></tr><tr><td>SIM</td><td>1 Nano SIM &amp; 1 eSIM</td></tr><tr><td>Wifi</td><td>Wi-Fi 6, Dual-band (2.4 GHz/5 GHz/6GHz), Wi-Fi hotspot, Wi-Fi MIMO</td></tr><tr><td>GPS</td><td>BEIDOU, GALILEO, GLONASS, GPS, NavIC, QZSS, iBeacon</td></tr><tr><td>Bluetooth</td><td>v5.3</td></tr><tr><td>Cổng kết nối/sạc</td><td>USB Type-C</td></tr><tr><td>Jack tai nghe</td><td>Type-C</td></tr><tr><td>Kết nối khác</td><td>NFC, Định vị vi mô iBeacon, AirPlay</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Thiết kế &amp; Chất liệu</td></tr><tr><td>Thiết kế</td><td>Nguyên khối</td></tr><tr><td>Chất liệu</td><td>Khung nhôm &amp; Mặt lưng kính cường lực</td></tr><tr><td>Kích thước</td><td>Cao 146.7 mm - Rộng 71.5 mm - Dày 7.80 mm</td></tr><tr><td>Trọng lượng</td><td>167 g</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Tiện ích</td></tr><tr><td>Bảo mật nâng cao</td><td>Nhận diện khuôn mặt Face ID</td></tr><tr><td>Tính năng đặc biệt</td><td>Phát hiện va chạm, Âm thanh Dolby Atmos, HDR10+, DCI-P3, Dolby Vision, HLG</td></tr><tr><td>Kháng nước, bụi</td><td>IP68 (sâu 6 mét trong 30 phút)</td></tr><tr><td>Ghi âm</td><td>Có (Micrô tích hợp sẵn)</td></tr><tr><td>Xem phim</td><td>MP4, HEVC</td></tr><tr><td>Nghe nhạc</td><td>AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, Dolby Atmos, Âm Thanh Không Gian, Loa stereo</td></tr><tr><td>Tiện ích khác</td><td>La bàn kỹ thuật số, Thanh toán qua iPhone</td></tr><tr><td class=\"bold bg-warning-subtle\" colspan=\"2\">Bảo mật &amp; Cảm biến</td></tr><tr><td>Bảo mật</td><td>Face ID</td></tr><tr><td>Cảm biến</td><td>Không có thông tin</td></tr>\n</table>\n</div>",
+        "total_variants": 6,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Trắng",
+                "sku": "MD1R4VN/A",
+                "price": 11990000,
+                "image": "https://minhtuanmobile.com/uploads/products/250419024120-iphone-16e-trang.png"
+            },
+            {
+                "storage": "128GB",
+                "color": "Đen",
+                "sku": "MD1Q4VN/A",
+                "price": 11990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16e-128gb-1-251218082234.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Trắng",
+                "sku": "MD1W4VN/A",
+                "price": 14490000,
+                "image": "https://minhtuanmobile.com/uploads/products/250419024143-iphone-16e-trang.png"
+            },
+            {
+                "storage": "256GB",
+                "color": "Đen",
+                "sku": "MD1T4VN/A",
+                "price": 14490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16e-256gb-black-251209105916.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen",
+                "sku": "MD1X4VN/A",
+                "price": 23990000,
+                "image": "https://minhtuanmobile.com/uploads/products/250419024201-iphone-16e-black.png"
+            },
+            {
+                "storage": "512GB",
+                "color": "Trắng",
+                "sku": "MD274VN/A",
+                "price": 23990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16e-512gb-trang-251209110001.png"
+            }
+        ]
+    },
+    {
+        "category_id": 7,
+        "product_name": "iPhone 16",
+        "slug": "iphone-16",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua gói bảo hành VIP 6 tháng </li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>150K</strong></span></span> khi mua gói bảo hành VIP 12 tháng</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 15,
+        "variants": [
+            {
+                "storage": "128GB",
+                "color": "Trắng",
+                "sku": "MYE93VN/A",
+                "price": 20390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024038-iphone-16-128gb-4.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Hồng",
+                "sku": "MYEA3VN/A",
+                "price": 20490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024048-iphone-16-128gb-2.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Đen",
+                "sku": "MYE73VN/A",
+                "price": 20490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-128gb-260109024023.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Xanh Mòng Két",
+                "sku": "MYED3VN/A",
+                "price": 20490000,
+                "image": "https://minhtuanmobile.com/uploads/products/250806025844-iphone-16-plus-teal-pdp-image-position-1a-teal-color-vn-vi.jpg"
+            },
+            {
+                "storage": "128GB",
+                "color": "Xanh Lưu Ly",
+                "sku": "MYEC3VN/A",
+                "price": 20490000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024043-iphone-16-128gb-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Trắng",
+                "sku": "MYEF3VN/A",
+                "price": 21790000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-256gb-4-260109024201.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Lưu Ly",
+                "sku": "MYEH3VN/A",
+                "price": 21790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024219-iphone-16-256gb-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Hồng",
+                "sku": "MYEG3VN/A",
+                "price": 21790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024257-iphone-16-256gb-2.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Mòng Két",
+                "sku": "MYEJ3VN/A",
+                "price": 21790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024224-iphone-16-256gb-3.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Đen",
+                "sku": "MYEE3VN/A",
+                "price": 21790000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024229-iphone-16-256gb.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Lưu Ly",
+                "sku": "MYER3VN/A",
+                "price": 27290000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-16-512gb-1-260109024700.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Mòng Két",
+                "sku": "MYEU3VN/A",
+                "price": 27290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024719-iphone-16-512gb-3.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen",
+                "sku": "MYEK3VN/A",
+                "price": 27290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024728-iphone-16-512gb.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Hồng",
+                "sku": "MYEQ3VN/A",
+                "price": 27290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024724-iphone-16-512gb-2.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Trắng",
+                "sku": "MYEP3VN/A",
+                "price": 27290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260109024734-iphone-16-512gb-4.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 8,
+        "product_name": "iPhone 17e",
+        "slug": "iphone-17e",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua gói bảo hành VIP 6 tháng </li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>250K</strong></span></span> khi mua gói bảo hành VIP 12 tháng</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 6,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Đen",
+                "sku": "MHRV4ZP/A",
+                "price": 17290000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303035007-iphone-17e-256gb-2.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Trắng",
+                "sku": "MHRW4ZP/A",
+                "price": 17390000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303034958-iphone-17e-256gb.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Hồng",
+                "sku": "MHRX4ZP/A",
+                "price": 17390000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17e-256gb-1-260303034944.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Hồng",
+                "sku": "MHU34ZP/A",
+                "price": 22990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303035039-iphone-17e-512gb-4.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen",
+                "sku": "MHRY4ZP/A",
+                "price": 22990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17e-512gb-5-260303035017.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Trắng",
+                "sku": "MHU04ZP/A",
+                "price": 22990000,
+                "image": "https://minhtuanmobile.com/uploads/products/260303035029-iphone-17e-512gb-3.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 8,
+        "product_name": "iPhone 17",
+        "slug": "iphone-17",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua gói bảo hành VIP 6 tháng </li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>250K</strong></span></span> khi mua gói bảo hành VIP 12 tháng</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 10,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Tím Oải Hương",
+                "sku": "MG6M4ZP/A",
+                "price": 23490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-256gb-2-251227020001.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Trắng",
+                "sku": "MG6K4ZP/A",
+                "price": 23790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020018-iphone-17-256gb-3.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Đen",
+                "sku": "MG6J4ZP/A",
+                "price": 23790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020045-iphone-17-256gb-4.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Lam Khói",
+                "sku": "MG6L4ZP/A",
+                "price": 23790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020051-iphone-17-256gb-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Lá Xô Thơm",
+                "sku": "MG6N4ZP/A",
+                "price": 23790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020057-iphone-17-256gb.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen",
+                "sku": "MG6P4ZP/A",
+                "price": 29790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020231-iphone-17-512gb-4.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Lam Khói",
+                "sku": "MG6T4ZP/A",
+                "price": 29790000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-512gb-3-2512270202061.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Trắng",
+                "sku": "MG6Q4ZP/A",
+                "price": 29790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020236-iphone-17-512gb-3.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Lá Xô Thơm",
+                "sku": "MG6V4ZP/A",
+                "price": 29790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020242-iphone-17-512gb-1.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Tím Oải Hương",
+                "sku": "MG6U4ZP/A",
+                "price": 29790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020248-iphone-17-512gb-2.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 8,
+        "product_name": "iPhone 17 Pro Max",
+        "slug": "iphone-17-pro-max",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua gói bảo hành VIP 6 tháng </li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>250K</strong></span></span> khi mua gói bảo hành VIP 12 tháng</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 12,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Bạc",
+                "sku": "MFYM4ZP/A",
+                "price": 34790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020732-iphone-17-pro-max-256gb-2.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Cam Vũ Trụ",
+                "sku": "MFYN4ZP/A",
+                "price": 34790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020739-iphone-17-pro-max-256gb-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Đậm",
+                "sku": "MFYP4ZP/A",
+                "price": 34790000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-pro-max-256gb-1-2512270207131.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Bạc",
+                "sku": "MFYQ4ZP/A",
+                "price": 41290000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020832-iphone-17-pro-max-512gb-2.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Đậm",
+                "sku": "MFYU4ZP/A",
+                "price": 41290000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020843-iphone-17-pro-max-512gb.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Cam Vũ Trụ",
+                "sku": "MFYT4ZP/A",
+                "price": 41290000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-pro-max-512gb-2512270208191.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Xanh Đậm",
+                "sku": "MFYX4ZP/A",
+                "price": 47690000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020957-iphone-17-pro-max-1tb.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Cam Vũ Trụ",
+                "sku": "MFYW4ZP/A",
+                "price": 47690000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020952-iphone-17-pro-max-1tb-1.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Bạc",
+                "sku": "MFYV4ZP/A",
+                "price": 47690000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-pro-max-1tb-1-2512270209321.jpg"
+            },
+            {
+                "storage": "2TB",
+                "color": "Cam Vũ Trụ",
+                "sku": "MG004ZP/A",
+                "price": 60490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-pro-max-2tb-1-251227021035.jpg"
+            },
+            {
+                "storage": "2TB",
+                "color": "Bạc",
+                "sku": "MFYY4ZP/A",
+                "price": 60490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227021057-iphone-17-pro-max-2tb-2.jpg"
+            },
+            {
+                "storage": "2TB",
+                "color": "Xanh Đen",
+                "sku": "MG014ZP/A",
+                "price": 60490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227021103-iphone-17-pro-max-2tb.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 8,
+        "product_name": "iPhone 17 Pro",
+        "slug": "iphone-17-pro",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua gói bảo hành VIP 6 tháng </li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>250K</strong></span></span> khi mua gói bảo hành VIP 12 tháng</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 9,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Bạc",
+                "sku": "MG8G4ZP/A",
+                "price": 31790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020402-iphone-17-pro-256gb-2.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Cam Vũ Trụ",
+                "sku": "MG8H4ZP/A",
+                "price": 31790000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-pro-256gb-1-251227020348.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Xanh Đậm",
+                "sku": "MG8J4ZP/A",
+                "price": 31790000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020409-iphone-17-pro-256gb.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Cam Vũ Trụ",
+                "sku": "MG8M4ZP/A",
+                "price": 38490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020513-iphone-17-pro-512gb-1.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Đậm",
+                "sku": "MG8N4ZP/A",
+                "price": 38490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-pro-512gb-251227020449.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Bạc",
+                "sku": "MG8K4ZP/A",
+                "price": 38490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020505-iphone-17-pro-512gb-2.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Bạc",
+                "sku": "MG8P4ZP/A",
+                "price": 44490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-17-pro-1tb-2-251227020556.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Cam Vũ Trụ",
+                "sku": "MG8Q4ZP/A",
+                "price": 44490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020610-iphone-17-pro-1tb-1.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Xanh Đậm",
+                "sku": "MG8R4ZP/A",
+                "price": 44490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227020616-iphone-17-pro-1tb.jpg"
+            }
+        ]
+    },
+    {
+        "category_id": 9,
+        "product_name": "iPhone Air",
+        "slug": "iphone-air",
+        "description": "<div class=\"dcontent product-detail-quote-wrapper prodetail__box__content_collapse\">\n<div class=\"quote-icon--checked\"><p>Quà tặng lưu niệm <span style=\"color:#ff0000;\"><strong>Minh Tuấn Mobile</strong></span></p>\n</div><div class=\"quote-icon--checked\"><p><strong>Ưu đãi mua kèm (01.08 - 31.08)</strong></p>\n<ul>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">200K</span></strong></span> khi mua thêm sản phẩm trong hệ sinh thái Apple</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua gói bảo hành VIP 6 tháng </li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>250K</strong></span></span> khi mua gói bảo hành VIP 12 tháng</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>30</strong></span><span style=\"font-size:12px;\"><strong>%</strong></span></span> cường lực khi mua gói bảo hành VIP</li>\n<li>Giảm <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>100K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/laptop/phan-mem/microsoft/\"><span style=\"color:#ff0000;\">Microsoft Office</span></a></strong></li>\n<li>Giảm <span style=\"color:#ff0000;\"><strong><span style=\"font-size:16px;\">50K</span></strong></span> khi mua <strong><a href=\"https://minhtuanmobile.com/phu-kien/thiet-bi-luu-tru/\">Ổ cứng/USB/Thẻ nhớ</a></strong></li>\n<li>Giảm <strong><span style=\"color:#ff0000;\"><span style=\"font-size:16px;\">10</span><span style=\"font-size:12px;\">%</span></span></strong> tối đa <span style=\"color:#ff0000;\"><span style=\"font-size:16px;\"><strong>600K</strong></span></span> khi mua <strong><a href=\"https://minhtuanmobile.com/am-thanh/\">Tai Nghe/Loa</a></strong></li>\n</ul>\n<p>(Chỉ áp dụng với sản phẩm đủ điều kiện)</p>\n</div> </div>",
+        "total_variants": 12,
+        "variants": [
+            {
+                "storage": "256GB",
+                "color": "Xanh Da Trời",
+                "sku": "MG2P4ZP/A",
+                "price": 22890000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015509-iphone-air-256gb-3.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Trắng Mây",
+                "sku": "MG2M4ZP/A",
+                "price": 23190000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015446-iphone-air-256gb-1.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Đen Không Gian",
+                "sku": "MG2L4ZP/A",
+                "price": 23190000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-256gb-251227015427.jpg"
+            },
+            {
+                "storage": "256GB",
+                "color": "Vàng Nhạt",
+                "sku": "MG2N4ZP/A",
+                "price": 23190000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015459-iphone-air-256gb-2.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Vàng Nhạt",
+                "sku": "MG2U4ZP/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-512gb-2-251227015557.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Đen Không Gian",
+                "sku": "MG2Q4ZP/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015619-iphone-air-512gb.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Trắng Mây",
+                "sku": "MG2T4ZP/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015627-iphone-air-512gb-1.jpg"
+            },
+            {
+                "storage": "512GB",
+                "color": "Xanh Da Trời",
+                "sku": "MG2V4ZP/A",
+                "price": 28990000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015630-iphone-air-512gb-3.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Xanh Da Trời",
+                "sku": "MG304ZP/A",
+                "price": 33490000,
+                "image": "https://minhtuanmobile.com/uploads/products/iphone-air-1tb-3-251227015715.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Đen Không Gian",
+                "sku": "MG2W4ZP/A",
+                "price": 33490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015730-iphone-air-1tb.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Trắng Mây",
+                "sku": "MG2X4ZP/A",
+                "price": 33490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015738-iphone-air-1tb-1.jpg"
+            },
+            {
+                "storage": "1TB",
+                "color": "Vàng Nhạt",
+                "sku": "MG2Y4ZP/A",
+                "price": 33490000,
+                "image": "https://minhtuanmobile.com/uploads/products/251227015743-iphone-air-1tb-2.jpg"
+            }
+        ]
+    }
+]
