@@ -29,6 +29,8 @@ class AdminPanelProvider extends PanelProvider
             ->id('admin')
             ->path('admin')
             ->viteTheme('resources/css/filament/admin/theme.css')
+            ->darkMode(true)
+            ->defaultThemeMode(\Filament\Enums\ThemeMode::System)
             ->login()
             ->colors([
                 'primary' => Color::Amber,
@@ -61,8 +63,6 @@ class AdminPanelProvider extends PanelProvider
                 NavigationGroup::make()
                     ->label('Quản Lý Người Dùng')
                     ->collapsed(false),
-
-
                 // Nhóm nào đứng trước sẽ hiển thị ở trên
                 NavigationGroup::make()
                     ->label('Quản Lý Bán Hàng'),

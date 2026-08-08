@@ -29,7 +29,7 @@ class ProductsTable
                     ->sortable()
                     ->badge()
                     ->color('info'),
-                TextColumn::make('total_stock')
+                TextColumn::make('variants_sum_stock_quantity')
                     ->label('Tổng tồn kho')
                     ->sum('variants', 'stock_quantity')
                     ->alignCenter()
@@ -41,15 +41,15 @@ class ProductsTable
                     ->label('Trạng thái')
                     ->badge()
                     ->color(fn(string $state): string => match ($state) {
-                        'active', 'published' => 'success',
-                        'draft' => 'warning',
-                        'inactive', 'archived' => 'danger',
+                        'active' => 'success',       // Màu xanh lá
+                        'discontinued' => 'warning', // Màu cam/vàng
+                        'hidden' => 'danger',        // Màu đỏ
                         default => 'gray',
                     })
                     ->formatStateUsing(fn(string $state): string => match ($state) {
-                        'active', 'published' => 'Đang bán',
-                        'draft' => 'Bản nháp',
-                        'inactive', 'archived' => 'Ngừng bán',
+                        'active' => 'Đang bán',
+                        'discontinued' => 'Ngừng kinh doanh',
+                        'hidden' => 'Đã ẩn',
                         default => $state,
                     }),
                 TextColumn::make('created_at')
