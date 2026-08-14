@@ -10,7 +10,7 @@ use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\SerializesModels;
 
-class OrderUpdateStatus extends Mailable
+class OrderUpdateStatus extends Mailable implements ShouldQueue
 {
     use Queueable, SerializesModels;
     public Order $order;
@@ -20,9 +20,9 @@ class OrderUpdateStatus extends Mailable
     {
         $this->order = $order;
         $statuses = [
-            'pending'   => 'Chờ xử lý',
+            'pending' => 'Chờ xử lý',
             'confirmed' => 'Đã xác nhận',
-            'shipping'  => 'Đang giao hàng',
+            'shipping' => 'Đang giao hàng',
             'completed' => 'Đã hoàn thành',
             'cancelled' => 'Đã hủy',
         ];

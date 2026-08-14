@@ -4,6 +4,7 @@ namespace App\Filament\Resources\Orders\Tables;
 
 use Filament\Actions\ViewAction;
 use Filament\Tables\Columns\TextColumn;
+use Filament\Tables\Filters\SelectFilter;
 use Filament\Tables\Filters\TrashedFilter;
 use Filament\Tables\Table;
 
@@ -15,10 +16,9 @@ class OrdersTable
             ->columns([
                 TextColumn::make('order_code')
                     ->searchable(),
-                TextColumn::make('user.name')
-                    ->searchable(),
                 TextColumn::make('shipping_name')
-                    ->searchable(),
+                    ->searchable()
+                    ->toggleable(isToggledHiddenByDefault: true),
                 TextColumn::make('shipping_phone')
                     ->searchable(),
                 TextColumn::make('shipping_email')
@@ -26,12 +26,9 @@ class OrdersTable
                     ->searchable(),
                 TextColumn::make('shipping_address')
                     ->limit(30)
-                    ->searchable(),
+                    ->searchable()
+                    ->toggleable(isToggledHiddenByDefault: true),
                 TextColumn::make('subtotal')
-                    ->numeric()
-                    ->money('VND')
-                    ->sortable(),
-                TextColumn::make('shipping_fee')
                     ->numeric()
                     ->money('VND')
                     ->sortable(),
@@ -40,40 +37,41 @@ class OrdersTable
                     ->sortable(),
                 TextColumn::make('grand_total')
                     ->numeric()
+                    ->money('VND')
                     ->sortable(),
                 TextColumn::make('status')
                     ->label('Trạng thái')
                     ->badge()
                     ->color(fn(string $state): string => match ($state) {
-                        'pending'   => 'warning',
+                        'pending' => 'warning',
                         'confirmed' => 'info',
-                        'shipping'  => 'primary',
+                        'shipping' => 'primary',
                         'completed' => 'success',
                         'cancelled' => 'danger',
-                        default     => 'gray',
+                        default => 'gray',
                     })
                     ->formatStateUsing(fn(string $state): string => match ($state) {
-                        'pending'   => 'Chờ xử lý',
+                        'pending' => 'Chờ xử lý',
                         'confirmed' => 'Đã xác nhận',
-                        'shipping'  => 'Đang giao hàng',
+                        'shipping' => 'Đang giao hàng',
                         'completed' => 'Hoàn thành',
                         'cancelled' => 'Đã hủy',
-                        default     => $state,
+                        default => $state,
                     }),
                 TextColumn::make('payment_status')
                     ->label('Thanh toán')
                     ->badge()
                     ->color(fn(string $state): string => match ($state) {
-                        'unpaid'   => 'warning',
-                        'paid'     => 'success',
+                        'unpaid' => 'warning',
+                        'paid' => 'success',
                         'refunded' => 'danger',
-                        default    => 'gray',
+                        default => 'gray',
                     })
                     ->formatStateUsing(fn(string $state): string => match ($state) {
-                        'unpaid'   => 'Chưa thanh toán',
-                        'paid'     => 'Đã thanh toán',
+                        'unpaid' => 'Chưa thanh toán',
+                        'paid' => 'Đã thanh toán',
                         'refunded' => 'Đã hoàn tiền',
-                        default    => $state,
+                        default => $state,
                     }),
                 TextColumn::make('created_at')
                     ->dateTime()
@@ -90,6 +88,19 @@ class OrdersTable
             ])
             ->filters([
                 TrashedFilter::make(),
+                SelectFilter::make('status')
+                    ->options([
+                        'pending' => 'Chờ xử lý',
+                        'confirmed' => 'Đã xác nhận',
+                        'shipping' => 'Đang giao hàng',
+                        'completed' => 'Hoàn thành',
+                        'cancelled' => 'Đã hủy'
+                    ]),
+                SelectFilter::make('payment_status')
+                    ->options([
+                        'unpaid' => 'Chưa thanh toán',
+                        'paid' => 'Đã thanh toán',
+                    ]),
             ])
             ->recordActions([
                 ViewAction::make(),

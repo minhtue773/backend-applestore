@@ -68,8 +68,12 @@ class AdminPanelProvider extends PanelProvider
                     ->label('Quản Lý Bán Hàng'),
 
                 NavigationGroup::make()
+                    ->label('Quản Lý Bài Viết'),
+
+                NavigationGroup::make()
                     ->label('Cài Đặt Hệ thống')
                     ->collapsed(),
-            ]);;
+            ]);
+        ;
     }
 }

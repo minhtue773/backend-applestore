@@ -4,7 +4,6 @@ namespace App\Observers;
 
 use App\Mail\OrderUpdateStatus;
 use App\Models\Order;
-use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
 
 class OrderObserver
