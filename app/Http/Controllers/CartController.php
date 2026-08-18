@@ -2,12 +2,18 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\AddToCartRequest;
+use App\Http\Requests\UpdateCartItemRequest;
+use App\Http\Resources\CartResource;
 use App\Services\CartService;
+use App\Traits\ApiResponse;
 use Illuminate\Http\JsonResponse;
-use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 
 class CartController extends Controller
 {
+    use ApiResponse;
+
     protected CartService $cartService;
 
     public function __construct(CartService $cartService)
@@ -15,119 +21,96 @@ class CartController extends Controller
         $this->cartService = $cartService;
     }
 
+    /**
+     * GET /api/cart
+     */
     public function index(): JsonResponse
     {
         try {
             $cart = $this->cartService->getCart();
 
-            // Load các mối quan hệ để lấy ảnh, tên sản phẩm và thuộc tính biến thể
+            // Eager load relationships để tránh N+1 Query
             $cart->load([
                 'items.productVariant.product',
-                'items.productVariant.attributeValues.attribute',
+                'items.productVariant.attributeValues.attribute'
             ]);
-
-            return response()->json([
-                'success' => true,
-                'data' => $cart,
-            ]);
+            return $this->successResponse(new CartResource($cart), 'Lấy giỏ hàng thành công.');
         } catch (\Exception $e) {
-            return response()->json([
-                'success' => false,
-                'message' => $e->getMessage(),
-            ], 400);
+            return $this->errorResponse('', $e->getMessage(), Response::HTTP_BAD_REQUEST);
         }
     }
 
     /**
-     * Thêm sản phẩm vào giỏ hàng
+     * POST /api/cart/items
      */
-    public function add(Request $request): JsonResponse
+    public function store(AddToCartRequest $request): JsonResponse
     {
-        $request->validate([
-            'product_variant_id' => 'required|integer|exists:product_variants,id',
-            'quantity' => 'nullable|integer|min:1',
-        ]);
-
         try {
-            $cartItem = $this->cartService->addToCart(
-                $request->input('product_variant_id'),
-                $request->input('quantity', 1)
+            $this->cartService->addToCart(
+                $request->validated('product_variant_id'),
+                $request->validated('quantity', 1)
             );
 
-            return response()->json([
-                'success' => true,
-                'message' => 'Đã thêm sản phẩm vào giỏ hàng thành công.',
-                'data' => $cartItem,
-            ], 201);
-        } catch (\Exception $e) {
-            return response()->json([
-                'success' => false,
-                'message' => $e->getMessage(),
-            ], 400);
-        }
-    }
-
-    /**
-     * Cập nhật số lượng của một item trong giỏ
-     */
-    public function update(Request $request, int $id): JsonResponse
-    {
-        $request->validate([
-            'quantity' => 'required|integer',
-        ]);
-
-        try {
-            $this->cartService->updateQuantity($id, $request->input('quantity'));
-
-            return response()->json([
-                'success' => true,
-                'message' => 'Đã cập nhật giỏ hàng thành công.',
+            // Re-fetch cart đã được load relations
+            $cart = $this->cartService->getCart()->load([
+                'items.productVariant.product',
+                'items.productVariant.attributeValues.attribute'
             ]);
+            return $this->successResponse(new CartResource($cart), 'Đã thêm sản phẩm vào giỏ hàng.', Response::HTTP_OK);
         } catch (\Exception $e) {
-            return response()->json([
-                'success' => false,
-                'message' => $e->getMessage(),
-            ], 400);
+            return $this->errorResponse('', $e->getMessage(), Response::HTTP_BAD_REQUEST);
         }
     }
 
     /**
-     * Xóa 1 item khỏi giỏ hàng
+     * PUT/PATCH /api/cart/items/{itemId}
      */
-    public function remove(int $id): JsonResponse
+    public function update(UpdateCartItemRequest $request, int $itemId): JsonResponse
     {
         try {
-            $this->cartService->removeItem($id);
+            $this->cartService->updateQuantity(
+                $itemId,
+                $request->validated('quantity')
+            );
 
-            return response()->json([
-                'success' => true,
-                'message' => 'Đã xóa sản phẩm khỏi giỏ hàng.',
+            $cart = $this->cartService->getCart()->load([
+                'items.productVariant.product',
+                'items.productVariant.attributeValues.attribute'
             ]);
+            return $this->successResponse(new CartResource($cart), 'Cập nhật giỏ hàng thành công.', Response::HTTP_OK);
         } catch (\Exception $e) {
-            return response()->json([
-                'success' => false,
-                'message' => $e->getMessage(),
-            ], 400);
+            return $this->errorResponse('', $e->getMessage(), Response::HTTP_BAD_REQUEST);
         }
     }
 
     /**
-     * Xóa toàn bộ giỏ hàng
+     * DELETE /api/cart/items/{itemId}
+     */
+    public function destroy(int $itemId): JsonResponse
+    {
+        try {
+            $this->cartService->removeItem($itemId);
+
+            $cart = $this->cartService->getCart()->load([
+                'items.productVariant.product',
+                'items.productVariant.attributeValues.attribute'
+            ]);
+            return $this->successResponse(new CartResource($cart), 'Đã xóa sản phẩm khỏi giỏ hàng.', Response::HTTP_OK);
+        } catch (\Exception $e) {
+            return $this->errorResponse('', $e->getMessage(), Response::HTTP_BAD_REQUEST);
+        }
+    }
+
+    /**
+     * DELETE /api/cart/clear
      */
     public function clear(): JsonResponse
     {
         try {
             $this->cartService->clearCart();
-
-            return response()->json([
-                'success' => true,
-                'message' => 'Đã làm sạch giỏ hàng.',
-            ]);
+            return $this->successResponse('', 'Đã làm sạch giỏ hàng.', Response::HTTP_OK);
         } catch (\Exception $e) {
-            return response()->json([
-                'success' => false,
-                'message' => $e->getMessage(),
-            ], 400);
+            return $this->errorResponse('', $e->getMessage(), Response::HTTP_BAD_REQUEST);
         }
     }
 }

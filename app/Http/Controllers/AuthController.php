@@ -5,119 +5,97 @@ namespace App\Http\Controllers;
 use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
-use App\Helpers\ApiResponse;
 use App\Mail\SendOtpMail;
+use App\Traits\ApiResponse;
+use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Password;
-use Str;
+use Illuminate\Support\Str;
+use Symfony\Component\HttpFoundation\Response;
 
-/**
- * @group Authentication
- */
+
 class AuthController extends Controller
 {
+    use ApiResponse;
+
     /**
-     * Đăng ký tài khoản
-     * 
-     * API này dùng để tạo user mới và gửi OTP xác thực email.
-     * 
-     * @bodyParam name string required Tên người dùng. Example: Nguyen Van A
-     * @bodyParam email string required Email. Example: test@gmail.com
-     * @bodyParam password string required Mật khẩu. Example: 123456
-     * 
-     * @response 201 {
-     *   "success": true,
-     *   "message": "User registered successfully"
-     * }
+     * POST /api/auth/register
      */
-    public function register(Request $request)
+    public function register(Request $request): JsonResponse
     {
         $validatedData = $request->validate([
-            'name' => 'required|string|max:255',
-            'email' => 'required|string|email|max:255|unique:users',
+            'name'     => 'required|string|max:255',
+            'email'    => 'required|string|email|max:255|unique:users',
             'password' => 'required|string|min:6',
         ]);
 
         $user = User::create([
-            'name' => $validatedData['name'],
-            'email' => $validatedData['email'],
-            'password' => $validatedData['password'],
+            'name'     => $validatedData['name'],
+            'email'    => $validatedData['email'],
+            'password' => Hash::make($validatedData['password']),
         ]);
 
         $otp = rand(100000, 999999);
 
         $user->update([
-            'otp_code' => Hash::make($otp),
-            'otp_expires_at' => now()->addMinutes(5),
-            'otp_attempts' => 0,
-            'otp_last_sent_at' => now()
+            'otp_code'         => Hash::make($otp),
+            'otp_expires_at'   => now()->addMinutes(5),
+            'otp_attempts'     => 0,
+            'otp_last_sent_at' => now(),
         ]);
 
         Mail::to($user->email)->send(new SendOtpMail($otp));
 
+        // Trả về access_token ngay sau khi đăng ký
+        $token = $user->createToken('auth_token')->plainTextToken;
 
-        return ApiResponse::success($user, 'User registered successfully', 201);
+        return $this->successResponse([
+            'access_token'   => $token,
+            'token_type'     => 'Bearer',
+            'user'           => $user,
+            'email_verified' => $user->hasVerifiedEmail(),
+        ], 'Đăng ký tài khoản thành công. Vui lòng kiểm tra email để nhập mã OTP.', Response::HTTP_CREATED);
     }
 
     /**
-     * Đăng nhập
-     * 
-     * @bodyParam email string required Email. Example: test@gmail.com
-     * @bodyParam password string required Mật khẩu. Example: 123456
-     * 
-     * @response 200 {
-     *   "access_token": "token_here",
-     *   "token_type": "Bearer"
-     * }
+     * POST /api/auth/login
      */
-    public function login(Request $request)
+    public function login(Request $request): JsonResponse
     {
         $credentials = $request->validate([
-            'email' => 'required|string|email',
+            'email'    => 'required|string|email',
             'password' => 'required|string',
         ]);
 
         if (!Auth::attempt($credentials)) {
-            return response()->json(['message' => 'Invalid credentials'], 401);
+            return $this->errorResponse(null, 'Thông tin đăng nhập không chính xác', Response::HTTP_UNAUTHORIZED);
         }
 
         $user = Auth::user();
-
-
         $token = $user->createToken('auth_token')->plainTextToken;
 
-        return ApiResponse::success([
-            'access_token' => $token,
-            'token_type' => 'Bearer',
-            'user' => $user,
-            'email_verified' => $user->hasVerifiedEmail()
-        ], 'Login successful', 200);
+        return $this->successResponse([
+            'access_token'   => $token,
+            'token_type'     => 'Bearer',
+            'user'           => $user,
+            'email_verified' => $user->hasVerifiedEmail(),
+        ], 'Đăng nhập thành công', Response::HTTP_OK);
     }
+
     /**
-     * Đăng xuất
-     * 
-     * @authenticated
-     * 
-     * @response 200 {
-     *   "message": "Logged out successfully"
-     * }
+     * POST /api/auth/logout
      */
-    public function logout(Request $request)
+    public function logout(Request $request): JsonResponse
     {
-        $request->user()->currentAccessToken()->delete();
-        return ApiResponse::success(null, 'Logged out successfully', 200);
+        $request->user()->tokens()->delete();
+        return $this->successResponse(null, 'Đăng xuất thành công', Response::HTTP_OK);
     }
+
     /**
-     * Gửi email reset password
-     * 
-     * @bodyParam email string required Email. Example: test@gmail.com
-     * 
-     * @response 200 {
-     *   "message": "Email reset đã được gửi"
-     * }
+     * POST /api/auth/password/forgot
      */
-    public function forgotPassword(Request $request)
+    public function forgotPassword(Request $request): JsonResponse
     {
         $request->validate(['email' => 'required|email']);
 
@@ -126,24 +104,20 @@ class AuthController extends Controller
         ]);
 
         if ($status === Password::RESET_LINK_SENT) {
-            return ApiResponse::success(null, 'Email reset đã được gửi', 200);
+            return $this->successResponse(null, 'Email reset mật khẩu đã được gửi', Response::HTTP_OK);
         }
 
-        return ApiResponse::error(null, 'Không thể gửi email', 400);
+        return $this->errorResponse(null, 'Không thể gửi email reset mật khẩu', Response::HTTP_BAD_REQUEST);
     }
+
     /**
-     * Reset password
-     * 
-     * @bodyParam email string required Email
-     * @bodyParam token string required Token từ email
-     * @bodyParam password string required Password mới
-     * @bodyParam password_confirmation string required Xác nhận password
+     * POST /api/auth/password/reset
      */
-    public function resetPassword(Request $request)
+    public function resetPassword(Request $request): JsonResponse
     {
         $request->validate([
-            'email' => 'required|email',
-            'token' => 'required',
+            'email'    => 'required|email',
+            'token'    => 'required',
             'password' => 'required|min:6|confirmed',
         ]);
 
@@ -151,118 +125,101 @@ class AuthController extends Controller
             $request->only('email', 'password', 'password_confirmation', 'token'),
             function ($user, $password) {
                 $user->forceFill([
-                    'password' => Hash::make($password),
+                    'password'       => Hash::make($password),
                     'remember_token' => Str::random(60),
                 ])->save();
             }
         );
 
         return $status === Password::PASSWORD_RESET
-            ? response()->json([
-                'success' => true,
-                'message' => 'Reset password thành công'
-            ])
-            : response()->json([
-                'success' => false,
-                'message' => __($status)
-            ], 400);
+            ? $this->successResponse(null, 'Reset mật khẩu thành công', Response::HTTP_OK)
+            : $this->errorResponse(null, __($status), Response::HTTP_BAD_REQUEST);
     }
+
     /**
-     * Gửi lại OTP
-     * 
-     * @authenticated
-     * 
-     * @response 200 {
-     *   "message": "Đã gửi OTP"
-     * }
+     * POST /api/auth/email/resend-otp
      */
-    public function resendOtp(Request $request)
+    public function resendOtp(Request $request): JsonResponse
     {
         $user = $request->user();
 
-        if ($user->email_verified_at) {
-            return response()->json(['message' => 'Email đã xác thực']);
+        if ($user->hasVerifiedEmail()) {
+            return $this->errorResponse(null, 'Email đã được xác thực', Response::HTTP_BAD_REQUEST);
         }
 
-        // chống spam 60s
+        // Chống spam 60s
         if ($user->otp_last_sent_at && now()->diffInSeconds($user->otp_last_sent_at) < 60) {
-            return response()->json([
-                'message' => 'Đợi 60s rồi thử lại'
-            ], 429);
+            return $this->errorResponse(null, 'Vui lòng đợi 60 giây trước khi thử lại', Response::HTTP_TOO_MANY_REQUESTS);
         }
 
         $otp = rand(100000, 999999);
 
         $user->update([
-            'otp_code' => Hash::make($otp),
-            'otp_expires_at' => now()->addMinutes(5),
-            'otp_attempts' => 0,
-            'otp_last_sent_at' => now()
+            'otp_code'         => Hash::make($otp),
+            'otp_expires_at'   => now()->addMinutes(5),
+            'otp_attempts'     => 0,
+            'otp_last_sent_at' => now(),
         ]);
 
         Mail::to($user->email)->send(new SendOtpMail($otp));
 
-        return response()->json([
-            'message' => 'Đã gửi OTP'
-        ]);
+        return $this->successResponse(null, 'Mã OTP mới đã được gửi vào email của bạn', Response::HTTP_OK);
     }
+
     /**
-     * Xác thực OTP
-     * 
-     * @authenticated
-     * 
-     * @bodyParam otp string required OTP gồm 6 số. Example: 123456
-     * 
-     * @response 200 {
-     *   "message": "Xác thực thành công"
-     * }
+     * POST /api/auth/email/verify-otp
      */
-    public function verifyOtp(Request $request)
+    public function verifyOtp(Request $request): JsonResponse
     {
         $request->validate([
-            'otp' => 'required|digits:6'
+            'otp' => 'required|digits:6',
         ]);
 
         $user = $request->user();
 
+        if ($user->hasVerifiedEmail()) {
+            return $this->errorResponse(null, 'Email đã được xác thực trước đó', Response::HTTP_BAD_REQUEST);
+        }
+
         if (!$user->otp_expires_at) {
-            return response()->json([
-                'message' => 'OTP không tồn tại'
-            ], 400);
+            return $this->errorResponse(null, 'Mã OTP không tồn tại hoặc chưa được yêu cầu', Response::HTTP_BAD_REQUEST);
         }
 
         if (now()->gt($user->otp_expires_at)) {
-            return response()->json([
-                'message' => 'OTP hết hạn'
-            ], 400);
+            return $this->errorResponse(null, 'Mã OTP đã hết hạn', Response::HTTP_BAD_REQUEST);
         }
 
         if (!Hash::check($request->otp, $user->otp_code)) {
-
             $user->increment('otp_attempts');
 
             if ($user->otp_attempts >= 5) {
-                return response()->json([
-                    'message' => 'Sai quá nhiều lần'
-                ], 429);
+                return $this->errorResponse(null, 'Bạn đã nhập sai quá 5 lần. Vui lòng yêu cầu gửi lại mã OTP.', Response::HTTP_TOO_MANY_REQUESTS);
             }
 
-            return response()->json([
-                'message' => 'OTP không đúng'
-            ], 400);
+            return $this->errorResponse(null, 'Mã OTP không đúng', Response::HTTP_BAD_REQUEST);
         }
 
         $user->update([
             'email_verified_at' => now(),
-            'otp_code' => null,
-            'otp_expires_at' => null,
-            'otp_attempts' => 0,
-            'otp_last_sent_at' => null
+            'otp_code'          => null,
+            'otp_expires_at'    => null,
+            'otp_attempts'      => 0,
+            'otp_last_sent_at'  => null,
         ]);
-        $user->save();
 
-        return response()->json([
-            'message' => 'Xác thực thành công'
-        ]);
+        return $this->successResponse([
+            'user'           => $user->fresh(),
+            'email_verified' => true,
+        ], 'Xác thực email thành công', Response::HTTP_OK);
+    }
+
+    /**
+     * GET /api/auth/me
+     */
+    public function me(Request $request): JsonResponse
+    {
+        return $this->successResponse([
+            'user' => $request->user(),
+        ], 'Lấy người dùng thành công', Response::HTTP_OK);
     }
 }

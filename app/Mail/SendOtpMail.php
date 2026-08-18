@@ -15,17 +15,24 @@ class SendOtpMail extends Mailable implements ShouldQueue
 {
     use Queueable, SerializesModels;
 
-    public $otp;
+    public string $otp;
 
-    public function __construct($otp)
+    public function __construct(string $otp)
     {
         $this->otp = $otp;
     }
 
-    public function build()
+    public function envelope(): Envelope
     {
-        return $this->subject('Xác thực email')
-            ->view('emails.otp');
+        return new Envelope(
+            subject: 'Xác thực tài khoản',
+        );
     }
 
+    public function content(): Content
+    {
+        return new Content(
+            markdown: 'mail.otp',
+        );
+    }
 }

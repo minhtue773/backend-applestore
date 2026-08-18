@@ -1,20 +1,28 @@
 <x-mail::message>
-# Cập Nhật Trạng Thái Đơn Hàng
+# Xác thực tài khoản của bạn
 
-Xin chào **{{ $order->shipping_name ?? 'Khách hàng' }}**,
+Bạn vừa yêu cầu mã xác thực (OTP) để đăng nhập hoặc hoàn tất đăng ký tài khoản tại **{{ config('app.name') }}**. 
 
-Đơn hàng **#{{ $order->order_code ?? $order->id }}** của bạn vừa được cập nhật trạng thái mới:
+Vui lòng sử dụng mã bên dưới để tiếp tục:
 
 <x-mail::panel>
-**Trạng thái hiện tại:** {{ $statusVietnamese ?? 'Đang xử lý' }}
+<div style="text-align: center;">
+    <span style="font-size: 14px; color: #666; display: block; margin-bottom: 5px;">Mã xác thực của bạn là:</span>
+    <strong style="font-size: 32px; letter-spacing: 6px; color: #2d3748;">{{ $otp }}</strong>
+</div>
 </x-mail::panel>
 
-<x-mail::button :url="'https://localhost:3000/profile/orders/' . $order->id">
-Xem Chi Tiết Đơn Hàng
-</x-mail::button>
+**Mã này sẽ hết hạn sau 5 phút.**
 
-Nếu bạn có bất kỳ thắc mắc nào, xin vui lòng liên hệ với bộ phận hỗ trợ của chúng tôi.
+---
+
+###Lưu ý bảo mật:
+* **KHÔNG** chia sẻ mã này với bất kỳ ai, kể cả nhân viên hỗ trợ.
+* Nếu bạn không thực hiện yêu cầu này, vui lòng bỏ qua email hoặc [đổi mật khẩu ngay].
+
+
+Nếu cần trợ giúp, bạn có thể liên hệ với chúng tôi qua email: [{{ config('mail.from.address') }}](mailto:{{ config('mail.from.address') }}).
 
 Trân trọng,<br>
-**{{ config('app.name') }}**
+**Đội ngũ {{ config('app.name') }}**
 </x-mail::message>
